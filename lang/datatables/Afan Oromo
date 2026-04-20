@@ -1,0 +1,23 @@
+{
+    "sEmptyTable":     "Daataa argamu hin jiru",
+    "sInfo":           "Galmeewwan _TOTAL_ keessaa _START_ hanga _END_ tti agarsiisaa jira",
+    "sInfoEmpty":      "Galmeewwan 0 keessaa 0 hanga 0 tti agarsiisaa jira",
+    "sInfoFiltered":   "(galmeewwan waliigalaa _MAX_ keessaa kan calalame)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ",",
+    "sLengthMenu":     "Galmeewwan _MENU_ agarsiisi",
+    "sLoadingRecords": "Fe'aa jira...",
+    "sProcessing":     "Hojjechaa jira...",
+    "sSearch":         "Barbaadi:",
+    "sZeroRecords":    "Galmeen walsimu hin argamne",
+    "oPaginate": {
+        "sFirst":      "Isa Jalqabaa",
+        "sLast":       "Isa Dhumaa",
+        "sNext":       "Itti-aana",
+        "sPrevious":   "Duraa"
+    },
+    "oAria": {
+        "sSortAscending":  ": tartiiba gubbaatii gara gadiitti qindeessuuf cuqaasi",
+        "sSortDescending": ": tartiiba gadiitii gara gubbaatti qindeessuuf cuqaasi"
+    }
+}

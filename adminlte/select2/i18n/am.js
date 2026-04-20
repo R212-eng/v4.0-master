@@ -1,0 +1,3 @@
+
+
+(function(){if(jQuery&&jQuery.fn&&jQuery.fn.select2&&jQuery.fn.select2.amd)var e=jQuery.fn.select2.amd;return e.define("select2/i18n/am",[],function(){return{errorLoading:function(){return"ውጤቶቹ ሊጫኑ አልቻሉም"},inputTooLong:function(e){var t=e.input.length-e.maximum,n="እባክዎ "+t+" ፊደላትን ይሰርዙ";return t!=1&&(n+="s"),n},inputTooShort:function(e){var t=e.minimum-e.input.length,n="እባክዎ "+t+" ወይም ከዚያ በላይ ፊደሎችን ያስገቡ";return n},loadingMore:function(){return"ተጨማሪ ውጤቶችን በመጫን ላይ…"},maximumSelected:function(e){var t="መምረጥ የሚችሉት "+e.maximum+" ብቻ ነው።";return e.maximum!=1&&(t+="s"),t},noResults:function(){return"ምንም ውጤቶች አልተገኙም።"},searching:function(){return"በፍለጋ ላይ…"}}}),{define:e.define,require:e.require}})();

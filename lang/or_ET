@@ -1,0 +1,2359 @@
+//white-labeling
+company_url = "http://www.goautodial.com/"
+portal_title = "GOautodial Inc."
+dashboard_sub-header = "Baga gara GOautodial Inc. nagaan dhuftan!"
+
+// DASHBOARD
+
+home = "Seensa"
+your_creamy_dashboard = "Daashboordii kee"
+notifications = "Beeksisa"
+tasks = "Hojiiwwan"
+telephony = "Teleifoonii"
+campaigns = "Duula"
+campaign_management = "Bulchiinsa Duulaa"
+
+call_recordings = "Waraabbii Bilbilaa"
+play_call_recording = "Waraabbii Bilbilaa Jalqabsiisii"
+download_call_recording = "Waraabbii Bilbilaa Buufadhu"
+call_recordings_management = "Bulchiinsa Waraabbii Bilbilaa"
+crm = "C . R . M"
+contacts = "Quunnamtiiwwan"
+crm_title = "Bulchiinsa Walitti Dhufeenya Maamiltootaa"
+call_recordings = "Waraabbii Bilbilaa"
+list_management = "Bulchiinsa Tarree"
+contacts_call_recordings_management = "Bulchiinsa Quunnamtii fi Waraabbii Bilbilaa"
+
+// MUSIC ON HOLD
+	
+music_on_hold = "Muuziqaa Ergaa Eeggannoo"
+music_on_hold_management = "Bulchiinsa Muuziqaa Eeggannoo"
+voice_files = "Faayila Sagalee"
+voice_files_management = "Faayila Sagalee Taphadhu"
+audiofiles = "Faayila Odiyoo"
+audiofiles_management = "Bulchiinsa Faayila Odiyoo"
+support = "Deggersa"
+call_reports = "Gabaasa Bilbilaa"
+admin_logs = "Galmee Bulchiinsaa"
+call_times = "Yeroo Bilbilaa"
+call_times_management = "Bulchiinsa Yeroo Bilbilaa"
+carriers = "Baattota"
+carriers_management = "Bulchiinsa Baattotaa"
+
+// SYSTEM SETTINGS
+		
+system_settings = "Teessuma Sirnaa"
+user_groups_management = "Bulchiinsa Garee Fayyadamaa"
+voice_mails = "Ergaa Sagalee"
+voice_mails_management = "Bulchiinsa Ergaa Sagalee"
+reports_and_go_analytics = "Gabaasaa fi GO Analytics"
+admin_logs = "Galmee Bulchiinsaa"
+messages = "Ergaawwan"
+new = "haaraa"
+see_more = "Hedduu ilaali"
+see_customer = "Maamila ilaali"
+read_message = "Ergaa dubbisi"
+customer = "Maamila"
+contact = "Quunnamtii"
+customers = "Maamiltoota"
+contacts = "Quunnamtiiwwan"
+load_leads = "Leads Naqi"
+see_all = "Hunda ilaali"
+getting_started = "Creamy waliin Jalqabaa (mallattoo + cuqaasi)"
+customer_statistics = "Istaatistiksii Maamilaa"
+messaging_system = "Sirna Ergaa"
+message = "Ergaa"
+subject = "Dhimma"
+send = "Ergi"
+name = "Maqaa"
+email = "Iimeelii"
+phone = "Bilbila"
+home_phone = "Bilbila Manaa"
+mobile_phone = "Bilbila Harkaa"
+id_number = "Lakkoofsa Eenyummaa"
+creation_date = "Guyyaa Uumame"
+status = "Haala"
+role = "Gahee"
+action = "Gocha"
+selection = "Filannoo"
+favorite = "Jaallatamaa"
+user = "Fayyadamaa"
+date = "Guyyaa"
+unable_get_user_list = "Oups! Tarree fayyadamtootaa fiduu irratti rakkoon uumamee jira. Maaloo booda irra deebi'ii yaali. Rakkoon kun yoo itti fufe, bulchaa sirnaa quunnami."
+unable_get_customer_list = "Oups! Tarree maamiltootaa fiduu irratti rakkoon uumamee jira. Maaloo booda irra deebi'ii yaali. Rakkoon kun yoo itti fufe, bulchaa sirnaa quunnami."
+unable_get_messages = "Oups! Ergaawwan kee fiduu irratti rakkoon uumamee jira. Maaloo booda irra deebi'ii yaali. Rakkoon kun yoo itti fufe, bulchaa sirnaa quunnami."
+no_messages_in_list = "Kuusaan kun duwwaa dha."
+no_users_in_list = "Tarreen fayyadamtootaa duwwaa fakkaata. Maaliif amma tokko hin uumne?"
+no_customers_in_list = "Tarreen maamiltootaa duwwaa fakkaata. Maaliif amma tokko hin uumne?"
+enabled = "Banameera"
+disabled = "Cufameera"
+administrator = "Bulchaa"
+manager = "Maneejara"
+writer = "Barreessaa"
+reader = "Dubbisaa"
+guest = "Keessummaa"
+disable = "Cufi"
+enable = "Bani"
+choose_action = "Gocha filadhu"
+edit_data = "Deetaa fooyyessi"
+change_password = "Jecha icciitii jijjiiri"
+delete_user = "Fayyadamaa haqii"
+access_denied = "Hayyamni dhowwameera"
+you_dont_have_permission = "Qabiyyee kana arguuf hayyama hin qabdu."
+warning = "Akeekkachiisa!"
+error = "Dogoggora"
+error_getting_message = "Ergaa fiduu irratti dogoggorri uumame"
+unable_get_message = "Oups! Ergaa kee fiduu irratti rakkoon uumamee jira. Maaloo irra deebi'ii yaali. Rakkoon kun yoo itti fufe, bulchaa sirnaa quunnami."
+exit = "Ba’uu"
+you_have = "Qabda"
+you_have_a_new = "Haaraa qabda"
+unread_messages = "Ergaawwan hin dubbisamne"
+see_all_messages = "Ergaawwan hunda ilaali"
+see_all_notifications = "Beeksisa hunda ilaali"
+see_all_tasks = "Hojiiwwan hunda ilaali"
+pending_tasks = "Hojiiwwan eeggannoo irratti jiran"
+nice_to_see_you_again = "Irra deebinee si arguun keenya nu gammachiisa."
+my_profile = "Piroofayilii koo"
+administration = "Bulchiinsa"
+users = "Fayyadamtoota"
+hello = "Akkam"
+online = "Toora irratti"
+no_name = "Maqaan hin jiru"
+no_subject = "Dhimmi hin jiru"
+no_message = "Ergaan hin jiru"
+send_this_message_to = "ergaa kana gara... ergi"
+from = "iraa"
+to = "gara"
+event = "Mudannoo"
+no_notifications_today = "Har'a beeksisni haaraan hin jiru"
+no_notifications_past_week = "Torban darbe beeksisni haaraan hin jiru"
+past_week = "Torban darbe"
+second = "sek"
+minute = "daq"
+hour = "sa'aatii"
+day = "guyyaa"
+week = "torban"
+month = "ji'a"
+year = "waggaa"
+users_management = "Bulchiinsa fayyadamtootaa"
+new_user = "Fayyadamaa haaraa"
+optional = "Filannoo"
+password = "Jecha icciitii"
+repeat_password = "Jecha icciitii irra deebi'i"
+user_avatar = "Fakkii fayyadamaa"
+choose_image = "Faayila fakkii gosa .jpg, .png ykn .gif ta'e filadhu. Hangi isaa guddaan 2MB dha."
+user_role = "Gahee fayyadamaa"
+create_user = "Fayyadamaa uumi"
+messaging_system = "Sirna ergaa"
+insert_new_password = "Jecha icciitii haaraa galchi"
+insert_new_password_again = "Jecha icciitii haaraa irra deebi'ii galchi"
+cancel = "Dhiisi"
+accept = "Mirkaneessi"
+customer_list = "Tarree maamiltootaa"
+add_to = "Gara ... dabaladhu"
+customers_and_contacts_management = "Bulchiinsa quunnamtii fi maamiltootaa"
+personal_data_edition = "Deetaa quunnamtii fooyyessuu"
+modify = "Fooyyessi"
+insert_new_data = "Deetaa haaraa galchi"
+mandatory = "Dirqama"
+customer_or_service_type = "Gosa maamilaa ykn tajaajila dhiyaatu"
+address = "Teessoo"
+city = "Magaalaa"
+state = "Naannoo/Kutaa"
+zip_code = "ZIP koodii"
+country = "Biyya"
+notes = "Yaadannoo"
+marital_status = "Haala gaa'elaa"
+single = "Qeerranyee/Haadha manaa hin qabne"
+married = "Kan fuudhe/Heerumte"
+divorced = "Kan hiike/Hiikte"
+separated = "Gargar kan ba'an"
+widow = "Abbaan manaa/Haati manaa kan irraa du'e"
+choose_an_option = "Filannoo tokko filadhu"
+male = "Dhiira"
+gender = "Saala"
+female = "Dubartii"
+birthdate = "Guyyaa dhalootaa"
+do_not_send_email = "Namoota kanaaf iimeelii hin ergin"
+delete = "Haquu"
+edit_user_data = "Deetaa fayyadamaa fooyyessi"
+edit_user = "Fayyadamaa fooyyessi"
+not_permission_edit_user_information = "Oups! Deetaa fayyadamaa kanaa fooyyessuuf hayyama hin qabdu. Yoo bulchaa taate malee, piroofayilii kee qofa fooyyessuu dandeessa."
+unknown_error = "Oups! Dogoggorri hin beekamne uumameera. Maaloo irra deebi'ii yaali. Rakkoon kun yoo itti fufe, bulchaa sirnaa quunnami."
+unable_get_admin_credentials = "Icciitii bulchaa saaguun hin danda'amne. Maaloo odeeffannoo hunda guuti."
+unable_get_database_credentials = "Icciitii kuusaa deetaa argachuun hin danda'amne. Inistaaleeshiniin hin itti fufu."
+error_setting_db_tables = "Gabateewwan kuusaa deetaa hundeeffamaa irratti dogoggorri uumameera"
+database_not_set = "Kuusaan deetaa hin saagamne."
+unable_set_statistics = "Akeekkachiisa: Adeemsa istaatistiksii maamiltootaa CRM saaguun hin danda'amne."
+is_already_installed = "durumaan inistaala ta'eera"
+oups = "Gaaffii adeemsisuu irratti dogoggorri uumame!"
+another_installation_creamy = "Inistaaleeshiniin biraa bakka kanatti hojjechaa jira fakkaata."
+back_to_creamy = "Gara Creamytti deebi'i"
+installation_step_1_title = "Tarkaanfii 1. Kuusaa deetaa gahuu."
+installation_step_2_title = "Tarkaanfii 2. Akkaawuntii bulchaa."
+installation_step_3_title = "Tarkaanfii 3. Gareewwan maamilaa fi quunnamtii ibsuu."
+welcome = "Baga nagaun dhuftan!"
+welcome_to = "Baga nagaun dhuftan gara "
+installation_process_steps = "Adeemsi inistaaleeshinii CRM kee inistaala gochuu fi fooyyessuuf tarkaanfiiwwan salphaa keessa si qajeelcha. <strong>Haajalaqabnu!</strong>"
+database = "Kuusaa Deetaa"
+your_crm_needs_a_database = "CRM'n walitti dhufeenya kuusaa deetaa barbaada."
+installation_warning = "AKEEKKACHIISA: Adeemsi inistaaleeshinii inistaaleeshinii Creamy duraanii hunda ni haqa."
+database_host = "Maqaa hostii kuusaa deetaa (ykn localhost)"
+database_name = "Maqaa kuusaa deetaa"
+database_user = "Fayyadamaa kuusaa deetaa"
+database_password = "Jecha icciitii fayyadamaa kuusaa deetaa"
+detected_timezone = "Naannoo yeroo kee filadhu:"
+awesome = "Baay'ee gaarii!"
+database_access_checked = "Icciitii kuusaa deetaa milkaa'inaan mirkaneessineerra."
+admin_user_name = "Maqaa fayyadamaa bulchaa"
+admin_user_password = "Jecha icciitii fayyadamaa bulchaa"
+admin_user_password_again = "Jecha icciitii fayyadamaa bulchaa (irra deebi'i)"
+admin_user_email = "Iimeelii fayyadamaa bulchaa"
+perfect = "Baay'ee gaarii!"
+finished = "Xumurame"
+lets_define_customers = "Amma gareewwan namootaa CRM kee bulchu haa ibsinu."
+contacts_and_clients_ok = "Quunnamtiiwwan fi maamiltoonni anaaf sirriidha."
+i_want_to_define_groups = "Gareewwan maamilaa fi quunnamtii koo ofuma kootiin ibsuu nan filadha."
+contacts_predefined = "quunnamtiiwwan (kan durumaan ibsame)"
+customer_group = "Garee maamilaa"
+everythings_ready = "Hundi qophaa'eera!"
+ready_to_start_creamy = "Hundi CRM kee fayyadamuu jalqabuuf qopha'eera."
+start_using_creamy = "Creamy fayyadamuu jalqabi"
+never_heard_of_creamy = "Waa'ee Creamy dhageessee hin beektu? Asitti barachuu dandeessa:"
+invalid_login_password = "Maqaa fayyadamaa ykn jecha icciitii dogoggora. Maaloo irra deebi'ii yaali."
+insert_valid_login_password = "Maaloo, maqaa fayyadamaa fi jecha icciitii sirrii galchi."
+system_access = "Seensa sirnaa"
+access = "Seensa"
+forgotten_password = "Jecha icciitii dagattee?"
+click_here = "As cuqaasi"
+insert_valid_address = "Maaloo, iimeelii sirrii galchi"
+error_sending_recovery_email = "Iimeelii jecha icciitii deebisanii sirreessu erguu irratti dogoggorri uumameera."
+recovery_email_sent = "Iimeelii jecha icciitii deebisanii sirreessu gara ... ergameera"
+please_check_email = "Maaloo, akka si gahe mirkaneeffadhuu liinkii kenname cuqaasi."
+reset_password = "Jecha icciitii deebisii siri"
+have_you_lost_your_password = "Jecha icciitii kee dhabdeettaa? Iimeelii fayyadamaa keetiin walqabatu galchi."
+my_messages = "Ergaawwan koo"
+inbox = "Saanduqa Ergaa"
+sent = "Kan ergame"
+favorites = "Jaallatamoon"
+trash = "Kosii"
+new_message = "Ergaa haaraa"
+folders = "Fooldaroota"
+mark_as_read = "Akka dubbisametti mallatteessi"
+mark_as_unread = "Akka hin dubbisamnetti mallatteessi"
+mark_as_favorite = "Akka jaallatamaatti mallatteessi"
+send_to_trash = "Gara kosiitti ergi"
+recover_from_trash = "Kosii keessaa deebisi"
+latest_events_news = "Mudannoowwan fi oduuwwan dhiyoo"
+password_reset_successfully = "Jechi icciitii kee milkaa'inaan deebifamee sirreeffameera."
+password_reset_error = "Oups! Jecha icciitii kee deebisanii sirreessu irratti dogoggorri uumameera."
+passwords_dont_match = "Jechi icciitii wal hin fudhatu ykn duwwaadha. Maaloo, irra deebi'ii yaali."
+manage_your_time = "Yeroo kee bulchi"
+unfinished_tasks = "Hojiiwwan hin xumuramne"
+completed_tasks = "Hojiiwwan xumuraman"
+new_task = "Hojii haaraa"
+task_description = "Ibsa hojii"
+assign_this_task_to = "Hojii kana gara... ramadi"
+create_task = "Hojii uumi"
+modify_task = "Hojii fooyyessi"
+modify_task_description = "Ibsa hojii fooyyessi"
+insert_new_description = "Ibsa haaraa hojichaaf galchi."
+new_description = "Ibsa haaraa"
+unable_change_password = "Jecha icciitii kee jijjiiruun hin danda'amne."
+error_changing_password ="An error occurred changing the password. Please, try again."
+some_fields_missing = "Gaafficha adeemsisuun hin danda'amne. Dirreewwan tokko tokko duwwaa dha."
+unable_modify_task = "Hojii fooyyessuun hin danda'amne. Maaloo bulchaa quunnami"
+unable_create_customer = "Maamila ykn quunnamtii uumuun hin danda'amne."
+unable_create_user = "Fayyadamaa uumuun hin danda'amne."
+unable_create_task = "Hojii uumuun hin danda'amne. Maaloo bulchaa quunnami"
+image_file_too_large = "Hangi faayila fakkii baay'ee guddaadha. Hangi hayyamame 2MB dha."
+image_file_wrong_type = "Faayiloota fakkii gosa .jpg, .png ykn .gif qofatu hayyamama."
+image_file_is_not_image = "Faayilli fakkii piroofayilii fayyadamaatiif dhiyaate faayila fakkii miti."
+unable_generate_user_image = "Fayyadamaa uumuun hin danda'amne: fakkii piroofayilii uumuu irratti dogoggorri uumame."
+user_already_exists = "Maqaan fayyadamaa ykn iimeelii kun durumaan jira. Maaloo kan biraa filadhu."
+user_successfully_created = "Fayyadamaan milkaa'inaan uumameera. Ammuma kan biraa uumuu ykn ba'uu dandeessa."
+success = "Milkaa'ina!"
+error_creating_user = "Fayyadamaa uumuu irratti dogoggorri uumameera fakkaata"
+create_new = "Haaraa uumi"
+create = "Uumi"
+unable_delete_customer = "Maamila haquun hin danda'amne. Maaloo booda irra deebi'ii yaali."
+unable_delete_messages = "Ergaawwan haquun hin danda'amne. Maaloo booda irra deebi'ii yaali."
+unable_delete_task = "Hojii haquun hin danda'amne. Maaloo booda irra deebi'ii yaali."
+unable_delete_user = "Fayyadamaa haquun hin danda'amne. Maaloo booda irra deebi'ii yaali."
+unable_set_favorites = "Ergaawwan akka jaallatamaniitti mallatteessuun hin danda'amne."
+unable_set_read = "Ergaawwan akka dubbisamaniitti mallatteessuun hin danda'amne."
+unable_set_unread = "Ergaawwan akka hin dubbisamneetti mallatteessuun hin danda'amne."
+password_successfully_changed = "Jechi icciitii milkaa'inaan jijjiirameera."
+insert_old_password = "Jecha icciitii kee kan duraa galchi"
+unable_modify_customer = "Maamila fooyyessuun hin danda'amne. Maaloo bulchaa quunnami."
+unable_modify_user = "Fayyadamaa fooyyessuun hin danda'amne. Maaloo bulchaa quunnami."
+unable_send_message = "Ergaa erguun hin danda'amne. Maaloo booda irra deebi'ii yaali."
+unable_set_user_status = "Haala fayyadamaa saaguun hin danda'amne. Maaloo bulchaa quunnami."
+error_storing_statistics = "Dogoggorri istaatistiksii guyyaa ... irratti akka hin kuusamne taasise uumameera "
+error_accessing_task_data = "Odeeffannoo hojichaa argachuu irratti dogoggorri uumameera."
+out_of = "keessaa"
+messages_sent_trash = "ergaawwan milkaa'inaan gara kosiitti ergamaniiru"
+messages_recovered_trash = "ergaawwan milkaa'inaan kosii keessaa deebifamaniiru"
+data_successfully_modified = "Deetaan milkaa'inaan fooyya'eera"
+error_modifying_data = "Deetaa fooyyessuu irratti dogoggora"
+customer_successfully_deleted = "Maamilli milkaa'inaan haqameera"
+message_successfully_deleted = "Ergaan milkaa'inaan haqameera"
+message_successfully_sent = "Ergaan milkaa'inaan ergameera"
+new_contact_added = "Quunnamtiin haaraa dabalamameera"
+unable_create_triggers = "Beeksisa fayyadamaatiif triggers uumuu hin danda'amne."
+start = "Jalqabi"
+choose_language = "Afaan filadhu:"
+you_dont_have_pending_tasks = "Yeroo ammaa hojiin eeggannoo irratti jiru hin jiru."
+you_dont_have_completed_tasks = "Yeroo ammaa hojiin xumurame hin jiru."
+you_dont_have_pending_events = "Yeroo ammaa mudannoon hin jiru."
+today = "Har'a"
+access_creamy = "Gara Creamytti seeni"
+settings = "Teessuma"
+main_system_admin = "Bulchaa sirnaa isa guddaa"
+modules = "Mooduloota"
+module_management = "Bulchiinsa moodulii"
+enable_modules = "Mooduloota bani"
+enable_statistics = "Istaatistiksii bani"
+general_settings = "Teessuma Waliigalaa"
+unable_delete_main_admin = "Fayyadamaa haquun hin danda'amne. Akkaawuntii bulchaa guddaa haquun hin danda'amu."
+settings_successfully_changed = "Teessumni milkaa'inaan jijjiirameera"
+error_changing_settings = "Teessuma jijjiiruun irratti dogoggorri uumameera."
+error_accessing_database = "Kuusaa deetaa argachuu irratti dogoggora."
+customer_types = "Gosoota maamilaa"
+unable_delete_customer_type = "Gosa maamilaa haquun hin danda'amne."
+unable_delete_contacts_type = "Gosa maamilaa haquun hin danda'amne. Gosa quunnamtii haquun hin danda'amu."
+edit_customer_type = "Gosa maamilaa fooyyessi"
+enter_new_name_customer_type = "Gosa maamilaa kanaaf maqaa haaraa galchi."
+error_editing_customer_name = "Maqaa maamilaa fooyyessuu irratti dogoggora."
+new_customer_group = "Garee maamilaa haaraa"
+unable_add_customer_group = "Garee maamilaa haaraa dabaluun hin danda'amne."
+update = "Haaromsuu"
+crm_update_available = "Baasiin Creamy haaraa jira. Maaloo, ammuma haaromsi."
+crm_update_impossible = "Baasiin Creamy kun kan dhiyoo miti."
+crm_up_to_date = "Creamy'n kan dhiyooti. Haaromsuun hin barbaachisu."
+version = "Baasii (Version)"
+crm_update = "Haaromsa Creamy"
+results = "Bu'aawwan"
+crm_update_succeed = "Haaromsi milkaa'inaan xumurameera. Creamy fayyadamuun sitti haa tolu!"
+crm_update_failed = "Haaromsi hin milkoofne."
+description = "Ibsa"
+not_implemented = "Hojiirra hin oollee"
+uninstall = "Inistaaleeshinii kaasi"
+unable_enable_module = "Moodulicha banuuf yaaluu irratti dogoggorri uumameera."
+unable_disable_module = "Moodulicha cufuuf yaaluu irratti dogoggorri uumameera."
+error_loading_module = "Moodulicha fe'uu irratti dogoggora"
+unable_load_module_content = "Qabiyyee moodulichaa fe'uu irratti dogoggorri uumameera."
+module_settings = "Teessuma moodulii"
+save = "Olkaayi"
+unable_configure_module = "Teessuma moodulichaa qindeessuu irratti dogoggorri uumameera."
+module_settings_updated = "Teessumni moodulii milkaa'inaan haaromeera"
+menu = "Baafata"
+attachment = "Miila"
+attachments = "Miilota"
+unknown = "Kan hin beekamne"
+write_your_message_here = "Ergaa kee asitti barreessi..."
+compose_new_message = "Ergaa haaraa barreessi"
+back_to_inbox = "Gara saanduqa ergaatti deebi'i"
+max = "Guddaa."
+discard = "Gati"
+external_message_recipients = "Fudhatoota ergaa alaa (filannoo)"
+you_must_choose_user = "Ergaa kana erguuf fayyadamaa tokko filachuu qabda"
+base_url = "URL hundee"
+original_message_from = "Ergaa jalqabaa irraa"
+new_contacts = "Quunnamtiiwwan haaraa"
+new_customers = "Maamiltoota haaraa"
+current_customer_distribution = "Raabsa maamilaa yeroo ammaa"
+username_or_email = "Maqaa fayyadamaa ykn iimeelii"
+sign_in = "Sirna jalqabuuf seeni"
+want_to_try_again = "Irra deebitee yaaluu ni barbaaddaa?"
+not_looking_for = "Waan ati barbaadaa jirtu mitii?"
+password_recovery_title = "Jecha icciitii deebisanii argachuu"
+password_recovery_text = "This email has been sent to you because someone (presumably you) asked to reset the password for Creamy. Please, use the link below in order to complete this process. This link is only valid for the next twenty-four hours. If you not request this, you may disregard this email."
+password_recovery_button = "Jecha icciitii koo deebisii siri."
+new_task_title = "Hojii haaraa qabda"
+new_task_description = "You have been assigned a new task "taskdescription" by the user "username". You can see this task by login in to Creamy and selecting "tasks" in the sidebar menu, or directly by clicking on this link:"
+new_task_button = "Hojii ilaali"
+events = "Mudannoowwan"
+create_new_event = "Mudannoo haaraa uumi"
+event_name = "Maqaa mudannoo"
+unassigned_events = "Mudannoowwan hin ramadamne"
+color = "Bifaa"
+contact_reminder_for = "Yaadachiisa quunnamtii kan "
+event_properties = "Amaloota mudannoo"
+all_day = "Guyyaa guutuu"
+specific_time = "Yeroo murtaa'e"
+duration = "Turtii"
+minutes = "daqiiqawwan"
+hours = "sa'aatiiwwan"
+days = "guyyoota"
+unable_create_event = "Mudannoo uumuun irratti dogoggorri uumame."
+unable_modify_event = "Mudannoo fooyyessuun irratti dogoggorri uumame."
+event_programmed_today = "Mudannoon har'aaf saganteeffame qabda: "
+see_event = "Mudannoo ilaali"
+create_reminder_event = "Mudannoo quunnamtii haaraa"
+insert_new_data = "Deetaa haaraa galchi"
+move_to = "Gara ... sochoosi"
+activate_account_title = "Akkaawuntii kee dammaqsi!"
+activate_account_text = "You have been granted a user account at Creamy, the open source CRM. In order to activate your new account, please visit the link below. This activation link will be valid for the next 24 hours."
+activation_account_failed = "I was unable to activate your user account. Please contact the Creamy administrator."
+activation_account_succeed = "Your account was successfully activated. Now you can access Creamy by entering your credentials at the <a href='./login.php'>login page</a>."
+congratulations = "Baga gammaddan!"
+confirmation_email_enabled = "<strong>Warning</strong>: email confirmation for new user accounts is enabled. This means that the user will receive an email with a confirmation link that must be clicked in the next 24 hours in order to activate the account. Please make sure that you can send emails from PHP with your current server configuration before creating a new user with this setting, or disable email confirmation for new accounts <a href='./adminsettings.php'>here</a>."
+confirmation_email_disabled = "Email confirmation for new user accounts is disabled. The newly created user will be able to login with the given credentials immediately after its creation."
+choose_theme = "Miidhagina (Theme) filadhu"
+require_confirmation_email = "Fayyadamaa haaraa uumame iimeeliin mirkaneessi"
+custom_company_logo = "Loogoo dhaabbataa dhuunfaa"
+company_name = "Maqaa dhaabbataa"
+event_for_today = "Mudannoo har'aa"
+you_have_an_event = "Mudannoo har'aaf eeggannoo irratti jiru qabda: "
+send_event_email = "Mudannoowwan kaaleendaraa barbaachisoo ta'an beeksisuuf iimeelii ergi"
+enable_creamy_events = "Mudannoowwan Creamy bani!"
+creamy_events_description = "In order to benefit from Creamy most powerful features (like customers statistics and email notifications for events) you need to add a cronjob to allow creamy to schedule regular tasks. Please, copy and paste this line into your crontab file or into your cronjob:"
+dont_know_cronjob = "Lost? Don't know what this cronjob thing means? <a href='https://github.com/CreamyCRM/Creamy/wiki/Job-scheduling-for-Creamy' target='_blank'>Here</a> is a simple explanation."
+hourly = "Sa'aatiidhaan"
+daily = "Guyyaadhaan"
+weekly = "Torbaniin"
+monthly = "Ji'aan"
+min_event_frequency = "Min scheduled jobs frequency"
+website = "Weebsaayitii"
+no_customers_yet = "It seems you don't have any customers registered right now, why don't you add one now?"
+no_statistics_yet = "It seems we don't have any statistical data yet. Statistics about your customers are collected every week by default. More than a week has passed and still no data in here? Please, make sure the job scheduler task for Creamy is properly scheduled for execution."
+you_need_to_update = "It seems that the current version of Creamy you are using has not been updated to work properly. <strong>Please, update Creamy right now</strong> so you can get the most out of it. It's just a matter of seconds..."
+see_details = "Bal'inaan ilaali"
+myself = "of koo"
+delete_events = "Mudannoowwan haquu"
+drop_here_delete = "Delete an event by dragging it FROM THE CALENDAR and dropping it here"
+unable_delete_event = "There was an error while deleting the event. please, try again later or contact the administrator."
+calls = "Bilbiloota"
+call_logs = "Galmeewwan"
+new_call = "Bilbila haaraa"
+multi-tenant = "Dhuunfaa-Baay'ee"
+chat = "Haasawa (Chat)"
+osticket = "Tikittii OS"
+ticket = "Tikittii"
+dashboard_display = "Daashboordii arguuf hayyami"
+reportsanalytics_display = "Allow Reports & GO Analytics View"
+recordings_display = "Allow Recording View"
+support_display = "Deggersa bani"
+tenant_display = "Dubbisi"
+tenant_logs = "Galmee Bulchiinsaa"
+tenant_calltimes = "Yeroo Bilbilaa"
+tenant_phones = "Bilbiloota"
+tenant_voicemails = "Voicemails"
+dashboard_todays_status = "Haala Har'aa"
+dashboard_account_info = "Odeeffannoo Akkaawuntii"
+dashboard_agent_lead_status = "Agent Lead Status"
+dashboard_server_settings = "Teessuma Sarvarii"
+dashboard_go_analytics = "GO Analytics"
+dashboard_system_service = "Tajaajila Sirnaa"
+dashboard_cluster_status = "Haala Kilaastaraa"
+reportsanalytics_statistical_display = "Gabaasa Istaatistiksii"
+reportsanalytics_agent_time_display = "Bal'ina Yeroo Agantii"
+reportsanalytics_agent_performance_display = "Bal'ina Hojii Agantii"
+reportsanalytics_dial_status_display = "Gabaasa Haala Bilbilaa"
+reportsanalytics_agent_sales_display = "Gurgurtaa Agantii Tokkoon"
+reportsanalytics_sales_tracker_display = "Hordoftuu Gurgurtaa"
+reportsanalytics_inbound_call_display = "Gabaasa Bilbila Seenuu"
+reportsanalytics_export_call_report = "Gabaasa Bilbilaa Ergi"
+reportsanalytics_dashboard_display = "Daashboordii"
+reportsanalytics_advance_script_display = "Iskiriptii Ol'aanaa"
+servers = "Sarvaroota"
+prompt = "Gaaffii"
+ip_address = "Teessoo IP"
+date_and_time = "Guyyaa & Yeroo"
+details = "Bal'ina"
+sql_query = "SQL Query"
+sales = "Gurgurtaa"
+sales_monitoring = "Hordoffii Gurgurtaa Yeroo Dhugaa"
+total_sales = "Gurgurtaa Waliigalaa"
+inbound_sales = "Gurgurtaa Seenu"
+outbound_sales = "Gurgurtaa Ba'u"
+in_sale = "Gurgurtaa Seenu / Sa'aatii"
+out_sale = "Gurgurtaa Ba'u / Sa'aatii"
+N = "Deebii hin qabu"
+NA = "No Answer Autodial"
+A = "Maashinii Deebii"
+AA = "Answering Machine Auto"
+DROP = "Agantiin hin jiru"
+B = "Hojiin itti baay'ateera"
+NEW = "Leadii Haaraa"
+AB = "Busy Auto"
+ADC = "Disconnected Number Auto"
+AFAX = "Fax Machine Auto"
+AFTHRS = "Inbound After Hours Drop"
+AL = "Answering Machine Msg Played"
+AM = "Answering Machine Sent to Mesg"
+CALLBK = "Call Back"
+CBHOLD = "Call Back Hold"
+DC = "Lakkoofsa addaan cite"
+DEC = "Gurgurtaa kuffisame"
+DNC = "HIN BILBILIN"
+DNCL = "DO NOT CALL Hopper Match"
+ERI = "Dogoggora Agantii"
+INCALL = "Leadiin bilbilamaa jira"
+NANQUE = "Inbound No Agent No Queue Drop"
+NI = "Not Interested"
+NP = "No Pitch No Price"
+PM = "Played Message"
+PU = "Bilbilli fuudhameera"
+QCFAIL = "QC_FAIL_CALLBK"
+QUEUE = "Lead To Be Called"
+QVMAIL = "Queue Abandon Voicemail Left"
+SALE = "Gurgurtaan raawwatameera"
+SVYEXT = "Survey sent to Extension"
+SVYHU = "Survey Hungup"
+SVYREC = "Survey sent to Record"
+SVYVM = "Survey sent to Voicemail"
+TIMEOT = "Inbound Queue Timeout Drop"
+XDROP = "Agent Not Available IN"
+XFER = "Bilbilli darbeera"
+are_you_sure = "Mirkaneeffatteettaa?"
+action_cannot_be_undone = "Gochi kun duubatti deebi'uu hin danda'u"
+campaign_dial_status_succesfully_updated = "Haalli Bilbila Duulaa Milkaa'inaan Haaromeera"
+something_went_wrong = "Gaaffii kee adeemsisuu irratti rakkoon uumame."
+new_status_successfully_added = "Haalli Haaraan Milkaa'inaan Dabalamameera"
+cancelled = "Haqameera"
+cancel_msg = "Gochi raawwatame hin jiru"
+cancel_please = "Lakki, Maaloo Dhiisi"
+active = "Hojii irratti"
+inactive = "Hojii irra kan hin jirre"
+go_yes = "Eeyyee"
+go_no = "Lakki"
+field = "Dirree"
+ADD = "DABALI"
+DELETE = "HAQUU"
+no_results = "Bu'aan hin jiru"
+alphanumberic_only_instruction = "Maaloo qubeewwan fi lakkoofsota qofa galchi"
+download_file = "Faayila Buufadhu"
+submit = "Galchi"
+submitting = "Galchaa jira..."
+deleted = "Haqameera"
+added_new = "Haaraa Dabalamameera"
+smtp_settings = "Teessuma SMTP"
+dashboard = "Daashboordii"
+campaign = "Duula"
+disposition = "Haala"
+pausecodes = "Koodiiwwan Boqonnaa"
+hotkeys = "Furtuuwwan Qaxxaamuraa"
+list = "Tarree"
+customfields = "Dirreewwan Dhuunfaa"
+loadleads = "Leads Naqi"
+ivr = "IVR"
+did = "DID"
+voicefiles = "Faayila Sagalee"
+moh = "Muuziqaa Eeggannoo"
+reportsanalytics = "Gabaasaa fi Analitiksii"
+recordings = "Waraabbiiwwan"
+agent = "Agantii"
+agent_id = "Eenyummaa Agantii"
+agent_name = "Maqaa Agantii"
+user_id = "Eenyummaa Fayyadamaa"
+agent_log = "Galmee Agantii"
+agent_log_desc = "Shows the Call Logs of the agent."
+show_agentlog_filter = "Calaltuu"
+from = "Iraa:"
+to = "Gara:"
+user_wizard = "Wizaardii Fayyadamaa"
+user_wizard_desc = "A step by step wizard that allows you to create users."
+add_new_user = "Fayyadamaa Haaraa Dabali"
+account_details = "Bal'ina Akkaawuntii"
+account_details_sub_header = "Basic Account and Login Details"
+review_and_submit = "Irra Deebi'ii Ilaali & Galchi"
+review_and_submit_sub_header = "Review Details Before Saving"
+default_pass_is = "Jecha Icciitii Idilee"
+reenter_pass = "Jecha icciitii irra deebi'ii galchi"
+confirm_password = "Jecha Icciitii Mirkaneessi"
+custom = "Dhuunfaa"
+full_name = "Maqaa Guutuu"
+add_user_success = "Fayyadamaan Milkaa'inaan Uumameera!"
+add_user_failed = "Fayyadamaa uumuu irratti dogoggorri uumameera!"
+user_has_been_saved = "User has been successfully saved. The Created User now exists."
+agent_logout = "Agantii kana baasi"
+cancel_agent_logout = "Cancel Emergency Log Out"
+agent_logout_notif = "Agantiin Milkaa'inaan Ba'eera"
+emergency_logout = "Ba'iinsa Ariifachiisaa"
+confirm_delete_user = "Eeyyee, fayyadamaa kana haqi!"
+confirm_delete_multiple_user = "Yes, delete these users!"
+confirm_delete_multiple_phones = "Yes, delete these phones!"
+cancel_delete_user = "No, cancel please!"
+delete_user_success = "Fayyadamaan Milkaa'inaan Haqameera!"
+user_has_been_deleted = "User has been successfully deleted and cannot be retrieved again."
+delete_user_failed = "Fayyadamaa uumuu irratti dogoggorri uumameera!"
+dup_check_success = "Eenyummaan fayyadamaa ni argama."
+dup_check_error = "This user ID already exists. Please choose another."
+phones = "Bilbiloota"
+phones_management = "Bulchiinsa Bilbilootaa"
+num_of_seats = "Baay'ina Teessumootaa"
+phone_wizard = "Wizaardii Bilbilaa"
+add_new_phone = "Bilbila(oota) Haaraa Dabali"
+phone_wizard_desc = "A step to create phones."
+add_new_phone2 = "Odeeffannoo"
+add_phone_sub_header2 = "Information about the phone(s) to be created"
+phone_login = "Login Bilbilaa"
+phone_login_password = "Jecha Icciitii Login Bilbilaa"
+add_phone = "Baay'ina Bilbilootaa"
+add_phone_sub_header = "Number of Phones to be created"
+starting_extension = "Extension Jalqabaa"
+local_gmt = "GMT Naannoo"
+do_not_adjust_gmt = "Do NOT adjust for DST"
+add_phone_success = "Bilbilli Milkaa'inaan Uumameera!"
+add_phone_failed = "An Error Occured while Creating Phone!"
+phone_has_been_saved = "Phone Extension has been successfully saved. The Created Phone Extension now exists."
+confirm_delete_phone = "Eeyyee, bilbila kana haqi!"
+delete_phone_success = "Bilbilli Milkaa'inaan Haqameera!"
+phone_has_been_deleted = "Phone has been successfully deleted and cannot be retrieved again."
+delete_phone_failed = "An Error Occured while Deleting Phone!"
+carrier_wizard = "Wizaardii Baattuu"
+add_new_carrier = "Baattuu Haaraa Dabali"
+choose_carrier_type = "Choose Carrier Type"
+choose_carrier_sub_header = "Choose what carrier type should be created"
+carrier_type = "Gosa Baattuu"
+set_chosen_carrier = "Set Chosen Carrier"
+chosen_carrier_sub_header = "Set the details of your chosen carrier"
+carrier_id = "Eenyummaa Baattuu"
+carrier_name = "Maqaa Baattuu"
+carrier_description = "Ibsa Baattuu"
+registration_string = "Registration String"
+account_entry = "Account Entry"
+authentication = "Mirkaneessuu"
+ip_based = "IP Based"
+registration = "Registration"
+username = "Maqaa Fayyadamaa"
+server_ip_host = "Server IP/Host"
+Port = "Port"
+sip_server = "SIP Server"
+dial_prefix = "Diiyaal Pireefiiksii"
+codecs = "Koodeeksii"
+dtmf_mode = "DTMF Mode"
+protocol = "Pirootokoolii"
+global_string = "Global String"
+dialplan_entry = "Dialplan Entry"
+source_carrier = "Source Carrier"
+justgo_welcome  = "Baga nagaun dhuftan gara"
+justgo_title = "GoAutoDial Cloud Call Center Cloud Call Center"
+justgo_fillout = "Please fill out the information below:"
+justgo_company = "Dhaabbata"
+postal_code = "Koodii Poostaa"
+time_zone = "Naannoo Yeroo"
+mobile_phones = "Bilbila Harkaa"
+terms_and_condition = "Waliigaltee fi Haalawwan"
+call_time_details = "Call Time Details"
+moh_name = "Music on Hold Name"
+add_carriers_success = "Baattuun Milkaa'inaan Uumameera!"
+confirm_delete_carrier = "Eeyyee, baattuu kana haqi!"
+carrier_delete_success = "Baattuun Milkaa'inaan Haqameera!"
+carrier_edit = "Fooyyessi Baattuu"
+carrier_modify_success = "Baattuun Milkaa'inaan Fooyya'eera"
+carrier_updated = "Carrier is now updated!"
+voice_mail_wizard = "Wizaardii Ergaa Sagalee"
+add_voice_mail = "Ergaa Sagalee Haaraa Dabali"
+create_voice_mail = "Ergaa Sagalee Uumi"
+voicemail_sub_header = "Enter basic settings and assign to a user group"
+voicemail_id = "Eenyummaa Ergaa Sagalee"
+add_voicemail_success = "Ergaan Sagalee Milkaa'inaan Uumameera!"
+confirm_delete_voicemail = "Eeyyee, ergaa sagalee kana haqi!"
+voicemail_delete_success = "Ergaan Sagalee Milkaa'inaan Haqameera!"
+edit_voice_mail = "Ergaa Sagalee Fooyyessi"
+your_password = "Jecha Icciitii Kee"
+delete_voicemail_after_email = "Delete Voicemail After Email"
+old_message = "Ergaawwan Duraanii"
+voicemail_greeting = "Nageenya Ergaa Sagalee"
+voicemail_modify_success = "Ergaan Sagalee Milkaa'inaan Haaromeera!"
+audio_chooser = "Filattuu Odiyoo"
+ingroup_chooser = "Filattuu Garee-Keessaa"
+callmenu_chooser = "Filattuu Baafata Bilbilaa"
+-none- = "- - - HOMAA - - -"
+call_time_wizard = "Wizaardii Yeroo Bilbilaa "
+add_new_call_time = "Yeroo Bilbilaa Haaraa Dabali"
+call_time_header = "Teessuma Hundee"
+call_sub_time_header = "Enter your basic call time details and assign a usergroup."
+call_time_id = "Eenyummaa Yeroo Bilbilaa"
+call_time_name = "Maqaa Yeroo Bilbilaa"
+call_time_comments = "Yaada Yeroo Bilbilaa"
+voice_file_header = "Faayila Sagalee Dabali"
+voice_file_sub_header = "Apply a voice file in a specific day and the time."
+default = "Idilee"
+sunday = "Dilbata"
+monday = "Wiixata"
+tuesday = "Kiibxata"
+wednesday = "Roobii"
+thursday = "Kamisa"
+friday = "Jimata"
+saturday = "Sanbata"
+january = "Amajjii"
+february = "Gurraandhala"
+march = "Bitootessa"
+april = "Eebila"
+may = "Caamsaa"
+june = "Waxabajjii"
+july = "Adoolessa"
+august = "Hagayya"
+september = "Fuulbaana"
+october = "Onkololeessa"
+november = "Sadaasa"
+december = "Muddee"
+add_calltime_success = "Yeroon Bilbilaa Milkaa'inaan Uumameera!"
+confirm_delete_calltime = "Eeyyee, yeroo bilbilaa kana haqi!"
+calltime_delete_success = "Yeroon Bilbilaa Milkaa'inaan Haqameera!"
+edit_call_times = "Yeroo Bilbilaa Fooyyessi"
+modify_calltime_id = "MODIFY CALL TIME ID :"
+stop = "Dhaabi"
+after_hours = "After Hours Audio"
+calltime_modify_success = "Yeroon Bilbilaa Milkaa'inaan Haaromeera!"
+user_group = "Garee Fayyadamaa"
+user_groups = "Gareewwan Fayyadamaa"
+user_group_wizard = "Wizaardii Garee Fayyadamaa"
+add_user_group = "Garee Fayyadamaa Haaraa Dabali"
+user_group_header = "Garee Fayyadamaa Uumi"
+user_group_sub_header = "Enter basic settings"
+group_name = "Maqaa Garee"
+group_level = "Sadarkaa Garee"
+add_usergroup_success = "Gareen fayyadamaa milkaa'inaan uumameera!"
+confirm_delete_usergroup = "Eeyyee, garee fayyadamaa kana haqi!"
+usergroup_delete_success = "Gareen fayyadamaa milkaa'inaan haqameera!"
+group_permissions = "Hayyamawwan Garee"
+edit_user_group = "Garee Fayyadamaa Fooyyessi"
+modify_user_group = "MODIFY USER GROUP"
+force_timelock = "Force Timeclock Login"
+shift_enforcement = "Shift Enforcement"
+allowed_campaigns = "Duulota Hayyamaman"
+usergroup_modify_success = "Gareen fayyadamaa milkaa'inaan haaromeera!"
+server_wizard = "Wizaardii Sarvarii"
+add_server_wizard = "Sarvarii Haaraa Dabali"
+create_server_header = "Sarvarii Uumi"
+create_server_sub_header = "Enter basic settings"
+server_id = "Eenyummaa Sarvarii"
+server_description = "Ibsa Sarvarii"
+server_ip = "IP Sarvarii"
+asterisk_version = "Baasii Asterisk"
+add_server_success = "Sarvariin Milkaa'inaan Uumameera!"
+server_delete_success = "Server Successfully Deleted!"
+confirm_delete_server = "Eeyyee, sarvarii kana haqi!"
+edit_server = "Sarvarii Fooyyessi"
+modify_server_id = "MODIFY SERVER ID"
+max_trunks = "Tiraankoota Guddaa"
+max_call_per_second = "Max Call per Second"
+balance_dialing = "Diiyaaliingii Wal-qixa"
+balance_rank = "Balance Ranking"
+local_gmt = "GMT Naannoo"
+generate_conf_files = "Faayiloota Konfii Uumi"
+rebuild_conf_files = "Faayiloota Konfii Irra Deebi'ii Ijaari"
+rebuild_moh = "Muuziqaa Eeggannoo Irra Deebi'ii Ijaari"
+server_modify_success = "Sarvariin Milkaa'inaan Fooyya'eera"
+server_updated = "Sarvariin Amma Haaromeera"
+recorder_web_link = "Recorded Web Link"
+alt_recording_server_ip = "Alt Recording Server IP"
+external_server_ip = "IP Sarvarii Alaa"
+recording_web_link = "Recording Web Link"
+phone_numbers = "Lakkoofsota Bilbilaa"
+did_wizard = "Wizaardii DID"
+create_new_did = "DID Haaraa Uumi"
+did_details = "Bal'ina DID"
+did_basic_details = "Enter the basic details of your DID then assign it to a user group"
+did_extension = "Extension DID"
+did_description = "Ibsa DID"
+did_route = "Karaa DID"
+route_settings = "Route Settings"
+fill_up_route = "Fill up details needed for the chosen route."
+agent_unavailable_action = "Agent Unavailable Action"
+ingroup_id = "In-Group ID"
+ingroup_id_list_id = "In-Group List ID"
+ingroups = "Gareewwan-Keessaa"
+in_group_wizard = "Wizaardii Garee-Keessaa"
+create_new_ingroup = "Garee-Keessaa Haaraa Uumi"
+group_details = "Group Details"
+fill_up_group_details = "Fill up details needed for the chosen in-group."
+agent_unavailable_action = "Gocha Hojjetaan Hin Jirre"
+
+ingroup_id = "ID Garee-Keessaa"
+
+ingroup_id_list_id = "ID Tarree ID Garee-Keessaa"
+
+ingroups = "Garee-Keessaa"
+
+in_group_wizard = "Wizaardii Garee-Keessaa"
+
+create_new_ingroup = "Garee-Keessaa Haaraa Uumi"
+
+group_details = "Bal’ina Garee"
+
+fill_up_group_details = "Bal’ina garee guuti achiis garee fayyadamaatti ramadi."
+group_id = "ID Garee"
+
+interactive_voice_response = "Tarree Filannoo Deebii Sagalee Interaktiivii (IVR)"
+
+phone_extension = "Ekstenshinii Bilbilaa"
+
+call_menu = "Filannoo Waamichaa"
+
+voicemail_box = "Saanduqa Ergaa Sagalee"
+
+custom_extension = "Ekstenshinii"
+
+extension_content = "Qabiyyee Ekstenshinii"
+
+phone_numbers_did_tfn = "Lakkofsa Bilbilaa (DIDs/TFNs)"
+
+call_handle_method = "Mala Waamicha Garee-Keessaa Itti Qaban"
+
+agent_search_method = "Mala Hojjetaa Garee-Keessaa Itti Barbaadan"
+
+
+
+add_phone_number_success = "Lakkofsi Bilbilaa Milkaa’inaan Uumameera!"
+confirm_delete_phonenumber = "Eeyyee, lakkofsa bilbilaa kana haqi"
+
+phonenumber_delete_success = "Lakkofsi Bilbilaa Milkaa’inaan Haqiameera!"
+dispostions = "Haalota Xumuraa"
+
+campaign_id = "ID Duulaa"
+
+campaign_name = "Maqaa Duulaa"
+
+dial_method = "Mala Bilbiluu"
+
+custom_disposition = "Haala Xumuraa Of-danda'e"
+
+filter_id = "ID Calaqqee"
+
+filter_name = "Maqaa Calaqqee"
+
+campaign_information = "Oduu Duulaa"
+
+notice = "Hubachiisa!"
+there_was_an_error_retrieving_details = "Bal’ina fiduu irratti dogoggorri uumameera. Dogoggora yookaan bu’aa hin qabu."
+campaign_description = "Ibsa Duulaa"
+
+allowed_inbound_blended = "Waamicha Galu fi Makaa Hayyamame"
+
+autodial_level = "Sadarkaa Of-bilbiluu"
+
+answering_machine_detection = "Mashiinii Deebii Kennu Adda Baasuu"
+
+wizard = "Wizaardii Duulaa"
+
+outbound = "Gala"
+
+inbound = "Gala"
+
+blended = "Makaa"
+
+survey = "Qorannoo"
+
+copy_from_campaign = "Duula irraa waraabi"
+
+campaign_id_already_exist = "ID Duulaa kanaan dura jira. ID Duulaa haaraa galchi."
+campaign_details = "Bal’ina Duulaa"
+
+campaign_type = "Gosa Duulaa"
+
+did_tfn_extension = "Ekstenshinii DID/TFN"
+
+call_route = "Karaa Waamichaa"
+
+ingroup = "Garee-Keessaa"
+
+copy_campaign = "Duula Waraabi"
+
+
+
+// IVR
+
+
+
+ivr = "IVR"
+
+group_color = "Halluu Garee"
+
+survey_type = "Gosa Qorannoo"
+
+voice = "BIRIIDKAASTII SAGALEE"
+
+survey = "QORANNOO 1 TUQI"
+
+carrier_use_for_campaign = "Baattuu Duulaaf tajaajilu"
+
+custom_prefix = "Dura-dubbee Of-danda'e"
+
+number_of_channels = "Baay'ina Chaanaalii"
+
+dial_method = "Mala Bilbiluu"
+
+auto_dial = "Sadarkaa Of-bilbiluu"
+
+campaign_recordings = "Waraabbii Duulaa"
+
+upload_wav = "WAV Ol-fe'i"
+
+browse = "Barbaadi"
+
+status_wizard = "Wizaardii Haalaa"
+
+create_new_status = "Haala Haaraa Uumi"
+
+create_disposition = "Haala Xumuraa Uumi"
+
+assign_a_status_in_a_campaign = "Duula keessatti haala ramadi achiis odeeffannoo gadii guuti"
+
+status_name = "Maqaa Haalaa"
+
+selectable = "Kan filatamu"
+
+human_answered = "Namaa deebisame"
+
+sale = "Gurgurtaa"
+
+dnc = "DNC"
+
+ni = "NI"
+
+customer_contact = "Quunnamtii Maamilaa" 
+
+
+not_interested = "Fedhii Hin Qabu"
+
+unworkable = "Kan hin hojjetamne"
+
+scheduled_callback = "Bilbila Deebii Saganteeffame"
+
+pause_codes = "Koodii Boqonnaa"
+
+del_pause_code = "Koodii Boqonnaa Haqi"
+
+pause_code = "Koodii Boqonnaa"
+
+pause_name = "Maqaa Koodii Boqonnaa"
+
+billable = "Kan kaffaltii qabu"
+
+close = "Cufi"
+
+hotkeys = "Hootkiis (Hotkeys)"
+
+hotkey = "Hootkii"
+
+status = "Haala"
+
+description = "Ibsa"
+
+
+
+//LEADS
+
+view_leads = "Liidiiwwan duula kanaaf 'hopper' keessa
+basic_settings = "Sajanteeffama Bu’uuraa"
+
+statuses = "Haalota"
+
+timezones = "Naannoo Sa'aa"
+
+form = "Foormii"
+
+reset_time = "Sa'aa Haaromsi"
+
+reset_lead = "Haala Liidii Waamame Haaromsi"
+
+agent_script = "Barreeffama Hojjetaa Irra-darbu"
+
+campaign_override = "CID Duulaa Irra-darbu"
+
+web = "Foormii Weebii"
+
+transfer = "Lakk. Konf. Dabarsaa Irra-darbu"
+
+xferconf_a_number = "Lakkofsa Dabarsaa Konf. A"
+
+xferconf_b_number = "Lakkofsa Dabarsaa Konf. B"
+
+xferconf_c_number = "Lakkofsa Dabarsaa Konf. C"
+
+xferconf_d_number = "Lakkofsa Dabarsaa Konf. D"
+
+xferconf_e_number 
+= "Lakkofsa Dabarsaa Konf. E"
+
+called = "Kan Waamame"
+
+not_called = "Kan Hin Waamamne"
+
+local_time = "Garaagarummaa GMT Ammaa (sa’aatii naannoo)"
+
+order = "Tartiiba"
+
+priority = "Dursa"
+
+lead_id = "ID Liidii"
+
+phone_number = "Lakkofsa Bilbilaa"
+
+count = "Lakkoofsa"
+
+gmt = "GMT"
+
+alt = "AL"
+
+source = "Madda"
+
+loading = "Fe’amaa jira..."
+
+append = "IDA’I"
+
+update = "Haaromsi"
+
+UPDATE = "HAAROMSI"
+
+updating = "Haaromsamaa jira..."
+
+replace = "BAKSI"
+
+copy = "Waraabi"
+
+searching = "Barbaadaa jira..."
+
+search = "Barbaadi"
+
+upload = "Ol-fe'i"
+
+uploading = "Ol-fe’amaa jira..."
+
+total_leads_upload = "Waliigala Liidiiwwan Ol-fe’aman"
+
+SUB_TOTAL = "DIMSHAASHA-MURAASA"
+
+TOTAL = "WALIIGALA"
+
+
+
+modify_user = "FAYYADAMAA JIJJIIRI"
+
+advance_settings = "Sajanteeffama Olaanaa"
+
+user_level = "Sadarkaa Fayyadamaa"
+
+enable_webrtc = "WebRTC Gadi-lakkisi"
+
+system_default = "DIFAULTII SIRNAA"
+
+voicemail = "Ergaa Sagalee"
+
+agent_recordings = "Waraabbii Hojjetaa"
+
+agent_transfers = "Dabarsaa Hojjetaa"
+
+closer_default_blended = "Cufaa Difaultii Makaa"
+
+agent_call_manual = "Waamicha Hojjetaa Harkaa"
+
+scheduled_callbacks = "Bilbila Deebii Saganteeffame"
+
+agent_only_callbacks = 
+"Bilbila Deebii Hojjetaa Qofaaf"
+
+agent_choose_ingroup = "Hojjetaan Garee-Keessaa Haa Filatu"
+
+user_update_success = "Fayyadamaan Milkaa’inaan Haaromsameera!"
+
+phone_update_success = "Bilbilli Milkaa’inaan Haaromsameera!"
+
+
+
+// LISTS + DNC - telephonylist.php, edittelephonylist.php
+
+
+
+list = "Tarree"
+
+lists = "Tarreewwan"
+
+list_id = "ID Tarree"
+
+upload_import = "Liidiiwwan Ol-fe’i/Galchi"
+
+duplicate_check = "Dachaa Sakatta’i"
+
+csv_file = "Faayila CSV"
+
+no_duplicate_check = "DACHAA HIN SAKATTA’IN"
+
+check_phones_in_list_id = "BILBILA ID TARREE KEESSATTI SAKATTA’I"
+
+check_phones_in_campaign-lists = "BILBILA TARREE-DUULAA KEESSATTI SAKATTA’I"
+
+delete_multiple_list = "Tarree Baay'ee Haqi"
+
+
+
+list_wizard = "Wizaardii Tarree"
+
+add_list = "Tarree Haaraa Ida’i"
+
+list_info = "Odeeffannoo Tarree"
+
+list_details = "Bal’ina Tarree"
+
+auto_generated = "Ofiin kan uumame"
+
+leads_count = "Baay'ina Liidii"
+
+list_name = "Maqaa Tarree"
+
+list_description = "Ibsa Tarree"
+
+drop_inbound_group_override = "Garee Waamicha Galu Kuffisuu Irra-darbi"
+
+
+
+copy_custom_wizard = "Wizaardii Dirree Of-danda'ee Waraabuu"
+
+copy_from_list_id = "ID Tarree Dirree irraa waraabamu"
+
+copy_to_list_id = "Dirree gara tarree 
+biraatti waraabi"
+
+copy_option = "Filannoo Waraabbii"
+
+
+
+edit_list = "Tarree Gulaali"
+
+modify_list_id = "ID TARREE JIJJIIRI"
+
+list_update_success = "Tarreen Milkaa’inaan Haaromsameera!"
+
+
+
+yes_copy_custom_fields = "Eeyyee, Dirree Of-danda'ee Waraabi"
+
+confirm_list_delete = "Eeyyee, tarree kana haqi"
+
+add_list_success = "Tarreen Milkaa’inaan Uumameera !"
+
+delete_list_success = "Tarreen milkaa’inaan haqameera"
+
+delete_list_success_msg = "Tarreen haqameera, deebisanii fiduun hin danda’amu."
+
+confirm_custom_fields = "Eeyyee, Dirree Of-danda'ee Waraabi"
+
+custom_fields_copied = "Dirree Of-danda'ee Milkaa’inaan Waraabameera"
+
+csv_upload_complete = "Ol-fe’iinsi faayila CSV xumurameera."
+
+data_processing = "Deetaan Amma Hojjetamaa Jira. 
+Maaloo Obsaan Egaa. Fuula kana hin haaromsin."
+
+data_processing_complete = "Hojii Deetaa Xumurameera !"
+
+
+
+dnc = "DNC"
+
+search_phone = "Lakkofsa Bilbilaa Barbaadi"
+
+add_delete_dnc = "DNC Ida’i/Haqi"
+
+internal_dnc = "TARREE DNC KEESSAA"
+
+search_filter_dnc = "Calaqqee DNC keessatti lakkofsa bilbilaa barbaadi"
+
+filter_dnc = "Calaqqee DNC"
+
+limit25_per_submit = "(sarara tokkootti lakkofsa bilbilaa tokko, yeroo tokkootti daangaa sarara 25.)"
+
+dnc_already_exist = "Lakkofsi DNC galchan hundi kanaan dura jiru..."
+
+dnc_do_not_exist = "Lakkofsi DNC hin jiran..."
+
+dnc_incomplete = "Hanga yoonaa hin xumurre!"
+
+dnc_incomplete_msg = "Maaloo saanduqa barreeffamaa irratti lakkofsa bilbilaa galchi."
+
+add_dnc = "DNC Milkaa’inaan Ida’ameera!"
+
+delete_dnc = "DNC Milkaa’inaan Haqameera!
+"
+
+
+
+// SCRIPTS - telephonyscripts.php, edittelephonyscript.php
+
+
+
+scripts = "Barreeffamoota (Scripts)"
+
+scripts_management = "Bulchiinsa Barreeffamootaa"
+
+success_updated = "Barreeffamni milkaa’inaan haaromsameera"
+
+script_wizard = "Wizaardii Barreeffamaa"
+
+script_wizard_description = "Wizaardii tarkaanfii bi-tarkaanfiin barreeffamoota uumuuf si gargaaru."
+
+new_script = "Barreeffama Haaraa Ida’i"
+
+script_details = "Bal’ina Barreeffamaa"
+
+fill_form = "Foormii keessatti bal’ina barbaachisu guuti"
+
+script_id = "ID Barreeffamaa"
+
+script_name = "Maqaa Barreeffamaa"
+
+script_comment = "Yaada Barreeffamaa"
+
+script_text = "Barreeffama Script"
+
+insert = "Galchi!"
+
+script_text_insert_description = "Barreeffama kanaan dura qophaa’e gara barreeffama script-tti ida’i"
+
+
+
+add_script_success = "Barreeffamni Milkaa’inaan Uumameera !"
+
+add_script_success_msg = "Barreeffamni milkaa’inaan ida’ameera. 
+OK tuquun fuula kana deebisee fe’a"
+
+confirm_delete_script = "Eeyyee, barreeffama kana haqi"
+
+delete_script_success = "Barreeffamni Milkaa’inaan Haqameera"
+
+delete_script_success_msg = "Barreeffamni haqameera, deebisanii fiduun hin danda’amu. 
+OK tuquun fuula kana deebisee fe’a"
+
+
+
+edit_script = "Barreeffama Gulaali"
+
+modify_script = "ID BARREEFFAMAA JIJJIIRI"
+
+edit_script_success = "Barreeffamni Milkaa’inaan Haaromsameera!"
+
+edit_script_success_msg = "Barreeffamni amma haaromsameera. 
+OK tuquun gara fuula barreeffamaatti si geessa"
+
+
+
+// INBOUND - telephonyinbound.php, edittelephonyinbound.php
+
+
+
+inbound = "Waamicha Galu"
+
+inbound_management = "Bulchiinsa Waamicha Galu"
+
+other_settings = "Sajanteeffama Biraa"
+
+settings_for_created_group = "Sajanteeffama garee uumameef"
+
+random = "Tartiiba-malee"
+
+fronter_display = "Agarsiisa Fuul-duree"
+
+script = "Barreeffama (Script)"
+
+call_menu_wizard = "Wizaardii Filannoo Waamichaa"
+
+create_new_call_menu = "Filannoo Waamichaa Haaraa Uumi"
+
+call_menu_details = "Bal’ina Filannoo Waamichaa"
+
+enter_call_menu_details = "Bal’ina Filannoo Waamichaa Galchi"
+
+menu_id = "ID Filannoo"
+
+menu_name = "Maqaa Filannoo"
+
+menu_greeting = "Nageenya Filannoo"
+
+menu_timeout = "Yeroon Filannoo Itti xumuramu"
+
+timeout_greeting = "Nageenya Yeroo-xumuraa"
+
+invalid_greeting = "Nageenya Sirrii Hin Taane"
+
+menu_repeat = "Irra-deebii Filannoo"
+
+menu_time_check = "Sakatta’iinsa Sa’aatii Filannoo"
+
+call_time = "Sa'aatii Waamichaa"
+
+track_call_realtime_report = "Waamicha Gabaasa Yeroo-sirrii keessatti hordofi"
+
+tracking_group = "Garee Hordoffii"
+
+call_menu_entry = "Galtee Filannoo Waamichaa"
+
+set_default_call_menu_entry = "Galtee Filannoo Waamichaa Difaultii Godhi"
+
+add_new_call_options = 
+"Filannoo Waamichaa Haaraa Ida’i"
+
+option = "Filannoo"
+
+call_menu_ivr = "Filannoo Waamichaa / IVR"
+
+hangup = "Bilbila Cufi"
+
+custom_extensions = "Ekstenshinii Of-danda'e"
+
+phone = "Bilbila"
+
+handle_method = "Mala Itti Qaban"
+
+phone_code = "Koodii Bilbilaa"
+
+search_method = "Mala Barbaadaa"
+
+vid_digits = "Dijitii VID"
+
+vid_enter_filename = "Maqaa Faayilaa VID Galchi"
+
+vid_id_number_filename = "Maqaa Faayilaa Lakkofsa ID VID"
+
+vid_confirm_filename = "Maqaa Faayilaa Mirkaneessaa VID"
+
+extension = "Ekstenshinii"
+
+context = "Haala"
+
+agi = "AGI"
+
+timeout = "Yeroo-xumuraa"
+
+edit = "Gulaali"
+
+modify_ingroup = "GAREE-KEESSAA JIJJIIRI"
+
+agents = "Hojjattoota"
+
+queue_priority = "Dursa Tarree"
+
+drop_call_seconds = "Sekondii Waamichi Itti Kufu"
+
+drop_action = "Gocha Kuffisuu"
+
+no_voicemail_available = "Ergaan Sagalee Hin Jiru"
+
+welcome_message_filename = "Maqaa Faayilaa Ergaa Simannaa"
+
+play_welcome_message = "Ergaa Simannaa Taphadhu"
+
+music_on_hold_context = "Haala Muuziqaa Turtii"
+
+on_hold_prompt_filename = "Maqaa Faayilaa Muuziqaa Turtii"
+
+after_hours_action = "Gocha Sa’aatii Hojiin Alaa"
+
+after_hours_message_filename = "Maqaa Faayilaa Ergaa Sa’aatii Hojiin Alaa"
+
+after_hours_extension = 
+"Ekstenshinii Sa’aatii Hojiin Alaa"
+
+after_hours_voicemail = "Ergaa Sagalee Sa’aatii Hojiin Alaa"
+
+after_hours_callmenu = "Filannoo Waamichaa Sa’aatii Hojiin Alaa"
+
+accept_calls_when_no_available_agent = "Hojjetaan yoo hin jirre waamicha simachuu?"
+
+no_available_agent_routing = "Karaa Hojjetaan Hin Jirre Itti Dabarsan"
+
+selected = "Filatameera"
+
+rank = "Sadarkaa"
+
+grade = "Giraade (Grade)"
+
+modify_ivr = "IVR JIJJIIRI"
+
+menu_timeout_greeting = "Nageenya Yeroo-xumuraa Filannoo"
+
+menu_invalid_greeting = "Nageenya Sirrii Hin Taane Filannoo"
+
+modify_did_record = "GALMEE DID JIJJIIRI"
+
+did_number = "Lakkofsa DID"
+
+agent_route_settings = "Sajanteeffama Karaa Hojjetaa"
+
+extension_context = "Haala Ekstenshinii"
+
+clean_cid_number = "Lakkofsa CID Qulqulleessi"
+
+inbound_update_success = "Waamichi galu milkaa’inaan haaromsameera."
+
+agent_rank_update_success = "Sadarkaan hojjetaa waamicha galu kanaaf milkaa’inaan haaromsameera!"
+
+ivr_update_success = "IVR milkaa’inaan haaromsameera!"
+
+did_update_success = "DID milkaa’inaan haaromsameera!"
+
+drop_exten = "Ekstenshinii Kuffisi"
+
+drop_transfer_group = "Garee Dabarsaa Kuffisi"
+
+drop_call_menu = "Filannoo Waamichaa Kuffisi"
+
+add_ingroup_success = "Garee-keessaa Milkaa’inaan 
+Uumameera!"
+
+confirm_delete_inbound = "Eeyyee, waamicha galu kana haqi!"
+
+inbound_delete_success = "Waamichi Galu Milkaa’inaan Haqameera!"
+
+add_ivr_success = "IVR Milkaa’inaan Uumameera"
+
+confirm_delete_ivr = "Eeyyee, IVR kana haqi!"
+
+ivr_delete_success = "IVR Milkaa’inaan Haqameera!"
+
+time = "Sa'aatii"
+
+route = "Karaa"
+
+
+
+//  AUDIOFILES
+
+
+
+audio_file = "Faayila Sagalee"
+
+voicefiles = "Faayila Sagalee"
+
+voice_playback = "Tapha Faayila Sagalee"
+
+upload_voice_file = "Faayila Sagalee Ol-fe'i"
+
+file_upload_failed = "Dogoggora: Faayilli ol-fe’amuu hin dandeenye. 
+Maaloo deebisii yaali."
+
+file_already_exists = "Dogoggora: Maqaan faayilaa kanaan dura jira. Maaloo biraa yaali."
+
+size = "Hamma"
+
+call_rec = "Tapha Waraabbii Waamichaa"
+
+success_deleted = "Hootkiin Milkaa’inaan Haqameera"
+
+modify_list = "Eeyyee, tarree jijjiiri"
+
+success_modified = "Tarreen Milkaa’inaan Jijjiirameera"
+
+create_hotkey = "Eeyyee, hootkii uumi!"
+
+success_create = "Hootkiin Milkaa’inaan Uumameera"
+
+pause_code_update = "Eeyyee, koodii boqonnaa haaromsi"
+
+pause_code_create = "Eeyyee, koodii boqonnaa uumi"
+
+pause_code_create_question = "Koodii Boqonnaa Uumuu?"
+
+pause_success = "Koodii Boqonnaa Milkaa’inaan Haaromsameera"
+
+saving_campaign = "Duula ol-kaayuun itti fufi"
+
+save_campaign = "Eeyyee, Duula ol-kaayi"
+
+save_not = "Duulli hin kaayamne"
+
+delete_campaign = "Eeyyee, duula kana haqi"
+
+delete_multiple_campaign = "Eeyyee, duulota kana haqi"
+
+campaign_deleted = "Duulli Milkaa’inaan Haqameera"
+
+success_statuses = "Haalota Xumuraa Milkaa’inaan Uumameera"
+
+dispostion = "Eeyyee, haala xumuraa kana haqi"
+
+disposition_delete = "Haalli Xumuraa Milkaa’inaan Haqameera"
+
+leadfilter = "Eeyyee, 
+calaqqee liidii kana haqi"
+
+filter_success = "Calaqqeen Liidii Milkaa’inaan Haqameera !"	
+
+campaign_success = "Duulli Milkaa’inaan Uumameera !"
+
+
+
+// DASHBOARD 
+
+agents_on_call = "Hojjetaa(ota) Waamicha Irratti"
+
+agents_waiting = "Hojjetaa(ota) Eegaa Jiran"
+
+agents_on_pause = "Hojjetaa(ota) Boqonnaa Irratti"
+
+calls_per_hour = "Waamicha Sa’aatii Tokkootti"
+
+realtime_calls_monitor = "Hordoffii Waamichaa Yeroo-sirrii"
+
+ringing_calls = "Waamicha Bilbilamaa Jiru"
+
+incoming_calls = "Waamicha Galu"
+
+answered_calls = "Waamicha Deebisame"
+
+inbound_calls_today = "Waamicha Galu Har'aa"
+
+outbound_calls_today = "Waamicha Bahu Har'aa"
+
+cluster_status = "Haala Kilaasterii"
+
+load = "Fe’iinsa"
+
+channels = "Chaanaalota"
+
+disk = "Diski"
+
+date_and_time = "Guyyaa fi Sa'aatii"
+
+dropped_calls_percentage = "Dhibbeentaa Waamicha Kufe"
+
+dropped_calls = "Waamicha Kufe"
+
+campaign_leads_resources = "Madda Liidii Duulaa"
+
+view_more = "Dabalata ilaali"
+
+view = "Ilaali"
+
+agent_monitoring_summary = "Gabaasa Hordoffii Hojjetaa"
+
+realtime_agents_monitoring = "Hordoffii Hojjetaa Yeroo-sirrii"
+
+agent_name = "Maqaa Hojjetaa"
+
+mm:ss = "DD:SS"
+
+
+
+// CAMPAIGN - telephonycampaign.php - edittelephonycampaign.php
+
+
+
+campaign = 
+"Duula"
+
+realtime_calls_monitoring = "Hordoffii Waamichaa Yeroo-sirrii"
+
+realtime_inbound_monitoring = "Hordoffii Waamicha Galu Yeroo-sirrii"
+
+call_type = "Gosa Waamichaa"
+
+calls_in_queue = "Waamicha Tarree Keessatti"
+
+inbound_group = "Garee Waamicha Galu"
+
+campaigns_monitoring = "Hordoffii Duulotaa"
+
+leads_on_hopper = "Liidiiwwan 'Hopper' keessatti"
+
+service_level_agreement_monitoring = "Hordoffii Waliigaltee Sadarkaa Tajaajilaa (SLA)"
+
+calls_today = "Waamicha Har'aa"
+
+answered_calls = "Waamicha Deebisame"
+
+ans_calls_less_20s = "Waamicha Sek. 20 gadiitti deebisame"
+
+abandon = "Kan dhiifame"
+
+sla = "SLA"
+
+aht = "AHT"
+
+more_about = "Waa’ee dabalataa"
+
+more_about_campaign_id= "Waa’ee ID duulaa dabalataa"
+
+logged_into = "Kan seename gara"
+
+cust_phone = "Bilbila Maamilaa" 
+
+barge = "Keessa seeni"
+
+listen = "Dhaggeeffadhu"
+
+whisper = "Hasasuu"
+
+campaign_details = "Bal’ina Duulaa"
+
+campaign_cid = "CID Duulaa"
+
+calling_hours = "Sa’aatii Bilbilaa"
+
+edit_events = "Ta’eewwan Gulaali"
+
+alt_number_dialing = "Lakkofsa ALT Harkaan Bilbiluu"
+
+
+
+filters = "Calaqqee"
+
+add_filters = "Calaqqee Ida’i"
+
+filter_disposition = "Haala Xumuraa"
+
+filter_list_id = "ID Tarree"
+
+filter_address = "Teessoo"
+
+filter_city = "Magaalaa"
+
+filter_state = 
+"Naannoo"
+
+crm_disposition = "Haala Xumuraa:"
+
+start_date = "Guyyaa Jalqabaa"
+
+end_date = "Guyyaa Xumuraa"
+
+
+
+confirm_delete_contact = "Eeyyee, quunnamtii kana haqi!"
+
+contact_delete_success = "Quunnamtiin Milkaa’inaan Haqameera!"
+
+
+
+type = "Gosa Calaqqee"
+
+stats = "Gabaasa Istatistiksi"
+
+agent_detail = "Bal’ina Sa’aatii Hojjetaa"
+
+agent_pdetail = "Bal’ina Hojii Hojjetaa"
+
+dispo = "Gabaasa Haalota Xumuraa"
+
+sales_agent = "Gurgurtaa Hojjetaa Tokkoon"
+
+sales_tracker = "Hordoffii Gurgurtaa"
+
+inbound_call_report = "Gabaasa Waamicha Galu"
+
+export_call_report = "Gabaasa Waamichaa Ergi"
+
+request = "Gaaffii"
+
+daily = "Guyyaa Guyyaan"
+
+weekly = "Torban Torbaniin"
+
+monthly = "Ji’a Ji’aan"
+
+
+
+contact_information = "Odeeffannoo Quunnamtii"
+
+comments = "Yaada"
+
+first_name = "Maqaa Jalqabaa"
+
+middle_name = "Maqaa Abbaa"
+
+middle_initial = "Maqaa Abbaa Gabaajee"
+
+last_name = "Maqaa Akkaakayyuu"
+
+alternative_phone_number = "Lakkofsa Bilbilaa Kan Biraa"
+
+address2 = "Teessoo 2"
+
+email_add = "E-mail"
+
+title = "Maqaa Kabajaa"
+
+date_of_birth = "Guyyaa Dhalootaa"
+
+convert_to_customer = "Gara Maamilaatti Jijjiiri"
+
+edit_information = "Odeeffannoo Gulaali"
+
+country_code = 
+"Koodii Biyyaa"
+
+
+
+contact_update_success = "Quunnamtiin Milkaa’inaan Haaromsameera!"
+
+incomplete = "Hin xumuramne!"
+
+
+
+select_an_agent = "- - - HOJJETAA FILADHU - - -"
+
+call_recording_playback = "Tapha Waraabbii Waamichaa"
+
+download = "Buufadhu"
+
+
+
+view_details = "Bal’ina Ilaali"
+
+view_pause_codes = "Koodii Boqonnaa Ilaali"
+
+view_hotkeys = "Hootkiis Ilaali"
+
+view_lists = "Tarreewwan Ilaali"
+
+copy_list_custom_fields = "Dirree Of-danda'ee Tarree Waraabi"
+
+download_list = "Tarree Buufadhu"
+
+play_voice_file = "Faayila Sagalee Taphadhu"
+
+contact_details = "Bal’ina Quunnamtii"
+
+default_start = "Jalqaba Difaultii"
+
+default_stop = "Dhaabbata Difaultii"
+
+type = "Gosa"
+
+force_timeclock = "Sa’aatii Dirqisiisi"
+
+trunks = "Traankii (Trunks)"
+
+server_name = "Maqaa Sarvarii"
+
+asterisk = "Asterisk"
+
+
+
+//MUSIC ON HOLD
+
+
+
+moh_details = "Bal’ina Muuziqaa Turtii"
+
+random_order = "Tartiiba Tartiiba-malee"
+
+moh_wizard_title = "Wizaardii Muuziqaa Turtii"
+
+moh_wizard_subtitle = "Muuziqaa Turtii Haaraa Ida’i"
+
+moh_sub_header = "Bal’ina Muuziqaa Turtii fi garee fayyadamtootaatti 
+ramadi."
+
+moh_id = "ID Muuziqaa Turtii:"
+
+voice_files_playback = "Tapha Faayila Sagalee"
+
+voice_file_wizard_header = "Faayila Sagalee Ol-fe'i"
+
+voice_file_wizard_sub_header = "Faayila barbaadi achiis 'Submit' tuqi."
+
+
+
+add_moh_success = "Muuziqaan Turtii Milkaa’inaan Uumameera!"
+
+moh_update_success = "Muuziqaan Turtii Milkaa’inaan Haaromsameera!"
+
+confirm_delete_moh = "Eeyyee, moh kana haqi!"
+
+moh_delete_success = "Muuziqaan Turtii Milkaa’inaan Haqameera!"
+
+upload_voicefile_success = "Faayilli Sagalee Milkaa’inaan Ol-fe’ameera!"
+
+
+
+reply = "Deebisii"
+
+forward = "Gara fuulduraatti dabarsi"
+
+print = "Maxxansi"
+
+
+
+// FILTERS - telephonyfilters.php
+
+
+
+filters = "Calaqqee"
+
+edit_filter = "Calaqqee Gulaali"
+
+modify_filter = "ID CALAQQEE JIJJIIRI"
+
+edit_filter_success = "Calaqqeen Milkaa’inaan Haaromsameera!"
+
+edit_filter_success_msg = "Calaqqeen amma haaromsameera. 
+OK tuquun gara fuula calaqqeetti si geessa"
+
+filters_management = "Bulchiinsa Calaqqee"
+
+filter_wizard = "Wizaardii Calaqqee"
+
+filter_wizard_description = "Wizaardii tarkaanfii bi-tarkaanfiin calaqqee uumuuf si gargaaru."
+
+new_filter = "Calaqqee Haaraa Ida’i"
+
+filter_details = "Bal’ina Calaqqee"
+
+filter_id = "ID Calaqqee"
+
+filter_name = "Maqaa Calaqqee"
+
+filter_comments = "Yaada Calaqqee"
+
+filter_sql = "SQL Calaqqee"
+
+
+
+add_filter_success = "Calaqqeen Milkaa’inaan Uumameera !"
+
+add_filter_success_msg = "Calaqqeen milkaa’inaan ida’ameera. 
+OK tuquun fuula kana deebisee fe’a"
+
+confirm_delete_filter = "Eeyyee, calaqqee kana haqi"
+
+delete_filter_success = "Calaqqeen Milkaa’inaan Haqameera"
+
+delete_filter_success_msg = "Calaqqeen haqameera, deebisanii fiduun hin danda’amu. 
+OK tuquun fuula kana deebisee fe’a"
+
+
+
+// SMTP Settings - settingssmtp.php
+
+
+
+host = "Host (Sarvarii)"
+
+smtp_host_info = "Maqaa sarvarii ergaa galchi."
+
+port = "Poortii"
+
+smtp_port_info = "Lakkofsa poortii SMTP galchi - 587 TLS mirkanaa'eef."
+
+ipv6_support = "Degaarsa IPv6"
+
+ipv6_support_info ="Yoo network keessan SMTP irratti IPv6 deeggare mallatteessi."
+
+debug = "Debugger (Dogoggora Sakatta’aa)"
+
+debug_info = "SMTP Debugger."
+
+smtp_security = "Nageenya SMTP"
+
+smtp_security_info = "Sirna eegumsaa itti fayyadamtan galchi - ssl yookaan tls."
+
+smtp_auth = "Mirkaneessa SMTP"
+
+smtp_auth_info = "Mirkaneessa SMTP itti fayyadamuu fi dhiisuu."
+
+smtp_modify_success = "Sajanteeffamni SMTP Milkaa’inaan Jijjiirameera"
+
+
+
+// CAMPAIGN - telephonycampaign.php, edittelephonycampaign.php
+
+
+
+modify_campaign_id = "ID DUULAA JIJJIIRI"
+
+manual_dial_list_id = "ID TARREE HARKAN BILBILAMU"
+
+advanced_settings = "Sajanteeffama Olaanaa"
+
+carrier_to_use_for_campaign = 
+"Baattuu Duula kanaaf tajaajilu"
+
+campaign_caller_id = "Caller ID Duulaa"
+
+custom_caller_id = "Caller ID Of-danda'e"
+
+Campaign Recording = "Waraabbii Duulaa"
+
+answer_machine_detection = "Mashiinii Deebii Kennu Adda Baasuu"
+
+local_calltime= "Sa’aatii Waamichaa Naannoo"
+
+minimum_hopper_level = "Sadarkaa Hopper-ii Gadi-aanaa"
+
+force_reset_of_hopper = "Hopper-ii Dirqisiisanii Haaromsi"
+
+phone_numbers_did/ftn_on_this_campaign = "Lakkofsa Bilbilaa (DID/TFN) duula kana irratti"
+
+number_of_channels = "Baay'ina Chaanaalii"
+
+allowed_inbound_and_blended = "Waamicha Galu fi Makaa Hayyamame"
+
+launch_custom_fields = "Dirree Of-danda'ee Gadi-lakkiisi"
+
+custom_fields_list_id = "ID Tarree Dirree Of-danda'ee"
+
+call_notes_per_call = "Yaada Waamichaa Waamicha Tokkoon"
+
+dial_status = "Haala Bilbilaa"
+
+list_order = "Tartiiba Tarree"
+
+lead_filter = "Calaqqee Liidii"
+
+call_count_limit = "Daangaa Baay'ina Waamichaa"
+
+call_count_target = "Targetii Baay'ina Waamichaa"
+
+dial_timeout = "Yeroo Bilbilli Itti Cufu"
+
+manual_dial_prefix = "Dura-dubbee Harkaan Bilbiluu"
+
+manual_dial_min_digits = "Dijitii Harkaan Bilbiluu Gadi-aanaa"
+
+default_country_code = "Koodii Biyyaa Difaultii"
+
+get_call_launch = "Waamicha Gadi-lakkisi"
+
+answering_machine_message = 
+"Ergaa Mashiinii Deebii Kennu"
+
+amd_send_to_action = "AMD gara Gochaatti ergi"
+
+waitforsilence_options = "Filannoo Cal-jechiisa Eeguu"
+
+pause_codes = "Koodii Boqonnaa"
+
+manual_dial_filter = "Calaqqee Harkaan Bilbiluu"
+
+manual_dial_search_filter = "Calaqqee Barbaadaa Harkaan Bilbiluu"
+
+use_internal_dnc = "DNC Keessaa Fayyadami"
+
+use_campaign_dnc = "DNC Duulaa Fayyadami"
+
+manual_dial_list_id = "ID Tarree Harkaan Bilbiluu"
+
+available_only_tally = "Available Only Tally"
+
+campaing_recording_filename = "Maqaa Faayilaa Waraabbii Duulaa"
+
+next_agent_call = "Waamicha Hojjetaa Itti-aanu"
+
+active_dial_status = "Haala Bilbilaa Socho'aa"
+
+reset_leads_hopper = "Liidiiwwan Hopper irratti Haaromsi"
+
+force_reset_of_hopper = "Hopper-ii Dirqisiisanii Haaromsi"
+
+minimum_hopper_level = "Sadarkaa Hopper-ii Gadi-aanaa"
+
+survey_method = "Mala Qorannoo"
+
+autodial_method = "Mala Of-bilbiluu"
+
+survey_dtmf_digits = "Dijitii DTMF Qorannoo"
+
+survey_not_interested_digit = "Dijitii Qorannoo 'Fedhii hin qabu'"
+
+survey_not_interested_audio_file = "Faayila Sagalee Qorannoo 'Fedhii hin qabu'"
+
+survey_not_interested_status = "Haala Qorannoo 'Fedhii hin qabu'"
+
+survey_third_digit = "Dijitii Qorannoo Sadaffaa"
+
+survey_third_audio_file = "Faayila Sagalee Qorannoo Sadaffaa" 
+
+
+survey_third_status = "Haala Qorannoo Sadaffaa"
+
+survey_third_extension = "Ekstenshinii Qorannoo Sadaffaa"
+
+survey_fourth_digit = "Dijitii Qorannoo Arfaffaa"
+
+survey_fourth_audio_file = "Faayila Sagalee Qorannoo Arfaffaa"
+
+survey_fourth_status = "Haala Qorannoo Arfaffaa"
+
+survey_fourth_extension = "Ekstenshinii Qorannoo Arfaffaa"
+
+survey_wait_seconds = "Sekondii Qorannoon Eegu"
+
+survey_no_response_action = "Gocha Qorannoo Deebii Hin Qabne"
+
+agent_lead_search = "Barbaada Liidii Hojjetaa"
+
+agent_lead_search_method = "Mala Barbaada Liidii Hojjetaa"
+
+inbound_groups = "Gareewwan Waamicha Galu"
+
+allowed_transfer_groups = "Gareewwan dabarsaa hayyamaman"
+
+survey_call_menu = "Filannoo Waamichaa Qorannoo"
+
+carrier_first_name = "Maqaa Jalqabaa"
+
+carrier_last_name = "Maqaa Akkaakayyuu"
+
+campaign_recording_filename = "Maqaa Faayilaa Waraabbii Duulaa"
+
+last_call_date = "Guyyaa Waamicha Dhumaa"
+
+ratio = "REESHOO (RATIO)"
+
+adapt_tepered = "Adapt Tepered"
+
+inbound_man = "Waamicha-Galu Harkaan"
+
+additional_information = "Odeeffannoo Dabalataa"
+
+assign_then_enter_account = "Ramadi achiis bal’ina Akkaawuntii fi Loginii galchi"
+
+total_leads_uploaded = "Waliigala Liidii Ol-fe’aman"
+
+status_mandatory = "Haala "
+
+status_name = "Maqaa Haalaa "
+
+status = "Haala"
+
+status_name 
+= "Maqaa haalaa"
+
+status_capital = "Maqaa haalaa"
+
+selectable = "Kan filatamu"
+
+human_answered = "Namaa deebisame"
+
+dnc = "DNC"
+
+sale = "Gurgurtaa"
+
+ni = "NI"
+
+customer_contact = "Quunnamtii Maamilaa"
+
+not_interested = "Fedhii Hin Qabu"
+
+unworkable = "Kan hin hojjetamne"
+
+scheduled_callback = "Bilbila Deebii Saganteeffame"
+
+action = "Gocha"
+
+file_name = "Maqaa Faayilaa"
+
+group = "Garee"
+
+all_usergroups = "GAREE FAYYADAMTOOTAA HUNDA"
+
+all_agents = "HOJJETTOOTA HUNDA"
+
+all_campaigns = "DUULOTA HUNDA"
+
+music_onhold_id = "ID Muuziqaa Turtii"
+
+music_onhold_name = "Maqaa Muuziqaa Turtii"
+
+choose_a_file = "Faayila filadhu"
+
+compose_message = "Ergaa Barreessi"
+
+default_value = "Gatiika Difaultii"
+
+callmenu_default = "FILANNOO WAAMICHAA - Difaultii"
+
+timecheck = "SAKATAT’IINSA-SA’AATII"
+
+timeout = "YEROO-XUMURAA"
+
+invalid = "SIRRII-HIN-TAANE" 
+
+found_for_this_campaign = " duula kanaaf argameera "
+
+sending = "Ergamaa jira. 
+Maaloo Obsaan Egaa..."
+
+check_customer_or_contacts = "Maaloo saanduqa <b>Maamila</b> yookaan <b>Quunnamtii</b> mallatteessi<br>erga sana booda batanii <b>Barbaadi</b> tuqi."
+
+lb_load_balance = "LB - Madaallii Fe’iinsaa"
+
+lo_load_balance_overflow = "L0 - Madaallii Fe’iinsaa Irra-dhangala’e"
+
+server_only = "Sarvarii Qofa"
+
+message_sent = "Ergaan Ergameera !"
+
+message_sent_msg = "I-meelii keessan milkaa’inaan ergitanittu."
+
+no_email_account = "Ergaan gara Akkaawuntii Sirnaatti Ergamerra !"
+
+no_email_account_msg = "Akkaawuntiin i-meelii fayyadamaadhaaf hin ibsamne, garuu ergaan gara akkaawuntii sirnaa fayyadamaatti ergamerra."
+
+message_error = "Dogoggora Ergaa: "
+
+system_error = "Dogoggora Sirnaa"
+
+in_group = "Garee-keessaa"
+
+no_available_call_menus = "Filannoon Waamichaa Hin Jiru"
+
+copyright = "Mirgi Qopheessaa Seeraan Kan Eggame"
+
+all_rights_reserved = "Mirgi Hunduu Kan Eggamedha"
+
+search_crm = "Lakkofsa Bilbilaa, Maqaa Jalqabaa yookaan Maqaa Akkaakayyuu Barbaadi"
+
+no_realtime_tracking = " Hordoffiin Yeroo-sirrii Hin Jiru"
+
+realtime_tracking = "Hordoffii Yeroo-sirrii"
+
+log 
+= "Galmee (Log)"
+
+interactive_voice_record = "Waraabbii Sagalee Interaktiivii"
+
+did_phone_number = "Lakkofsa DID/Bilbilaa"
+
+smtp_settings_desc = "Mooduulii Walitti-hidhamiinsa Ergaa SMTP"
+
+
+
+lead_calls = "Waamicha gara Liidii kanaatti"
+
+lead_closer_records = "Galmeewwan Cufaa Liidii kanaaf"
+
+lead_agent_log = "Galmeewwan Logii Hojjetaa Liidii kanaaf"
+
+lead_recordings = "Waraabbiiwwan Liidii kanaaf"
+
+
+
+call_date = "Guyyaa / Sa'aatii"
+
+length_in_sec = "Dheerina"
+
+term_reason = "Sababa Bilbilli Citeef"
+
+queue_seconds = "Eegaa"
+
+event_time = "Guyyaa / Sa'aatii"
+
+agent_log_id = "TSR"
+
+pause_sec = "Boqonnaa"
+
+wait_sec = "Eegaa"
+
+talk_sec = "Dubbachaa"
+
+dispo_sec = "Dispo"
+
+sub_status = "Sub"
+
+
+
+start_time = "Guyyaa / Sa'aatii"
+
+seconds = "Sekondii"
+
+recording_id = "ID Galmee"
+
+filename = "Maqaa Faayilaa"
+
+location = "Bakka"
+
+TSR = "TSR"
+
+
+
+ratio = "REESHOO"
+
+manual = "HARKAN"
+
+adapt_tapered = "ADAPT_TAPERED"
+
+inbound_man = "WAAMICHA-GALU-HARKAN"
+
+
+
+dynamic_cid = "Dynamic Caller ID"
+
+
+
+omit_phone_code = "Koodii Bilbilaa Dhiisi"
+
+agent_lead_search_override = "Barbaada 
+Liidii Hojjetaa Irra-darbi"
+
+nextdial_seconds = "Sekondii Bilbila Itti-aanuuf"
+
+enable_callback_alert = "Akeekkachiisa Deebisanii-bilbiluu Gadi-lakkiisi"
+
+cb_noexpire = "Deebisanii-bilbiluun Hin Darbu"
+
+cb_sendemail = "Hojjetaadhaaf I-meelii Bilbila Deebiirratti Ergi"
+
+google_api_key = "Kiivii Google API"
+
+google_sheet_id = "ID Google Sheet"
+
+google_sheet_list_id = "ID Tarree Google Sheet"
+
+enter_google_sheet_id = "ID Google Sheet Galchi"
+
+campaign_google_sheet_ids_successfully_updated = "ID Google Sheet Duulaa Milkaa’inaan Haaromsameera"
+
+you_have_not_entered_an_id = "Isin ID hin galchine"
+
+you_have_entered_an_invalid_id = "Isin ID sirrii hin taane galchitanii jirtu"
+
+slave_db_ip = "Slave DB IP"
+
+
+
+park_call = "Waamicha Paarkii Godhi"
+
+grab_park_call = "Waamicha Paarkii Godhame Fuudhi"
+
+transfer_call = "Waamicha Dabarsi"
+
+ivr_park_call = "Waamicha IVR Paarkii Godhi"
+
+grab_ivr_park_call = "Waamicha IVR Paarkii Godhame Fuudhi"
+
+requeue_call = "Deebisii Tarreessi"
+
+
+
+enter_first_name = "Maqaa Jalqabaa Galchi"
+
+enter_middle_initial = "Maqaa Abbaa Gabaajee Galchi"
+
+enter_last_name = "Maqaa Akkaakayyuu Galchi"
+
+lead_mapping = "Ramaddii 
+Liidii"
+
+check_phones_in_system = "SIRNA HUNDA KEESSATTI DACHAA SAKATTA’I"
+
+
+
+no_data = "Deetaan Hin Jiru"
+
+
+
+// AREACODE CALLER ID
+
+
+
+areacode = "Areacode"
+
+areacode_wizard = "Wizaardii Areacode"
+
+outbound_cid = "CID Bahu"
+
+create_new_areacode = "Areacode Haaraa Uumi"
+
+create_areacode = "Areacode Uumi"
+
+assign_an_areacode_in_a_campaign = "Duula keessatti Areacode ramadi"
+
+caller_id = "Caller ID"
+
+success_areacode = "Areacode Milkaa’inaan Uumameera"
+
+delete_areacode = "Areacode Haqi"
+
+areacode_deleted = "Areacode Milkaa’inaan Haqameera"
+
+modify_areacode	= "Areacode Jijjiiri"
+
+modifying_an_areacode = "Areacode Jijjiiraa jira"
+
+success_modified_areacode = "Areacode Milkaa’inaan Jijjiirameera"
+
+
+
+//Agent Chat
+
+agent_chat_settings = "Sajanteeffama Chaatii Hojjetaa"
+
+agent_chat_desc = "Mooduulii Chaatii Hojjetaa irraa Hojjetaatti"
+
+
+
+//Whatsapp
+
+whatsapp_settings = "Sajanteeffama WhatsApp"
+
+whatsapp_dispo_settings = "Haalota Xumuraa WhatsApp"
+
+dispo_settings = "Sajanteeffama Haala Xumuraa"
+
+whatsapp_reports = "Gabaasa WhatsApp"
+
+whatsapp = "WhatsApp"
+
+whatsapp_desc = "Mooduulii WhatsApp-f"
+
+agents_on_chat = "Hojjetaa(ota) Chaatii Irratti"
+
+agents_waiting_chat = "Hojjetaa(ota) Chaatii Eegaa Jiran"
+
+agents_on_pause_chat 
+= "Hojjetaa(ota) Chaatii Boqonnaa Irratti"
+
+agents_transactions_monitoring = "Hordoffii Transactions Hojjettootaa"
+
+view_conversation = "Waliin-dubbi Ilaali"
+
+chat_status = "Haala Chaatii"
+
+unread_chats = "Chaatii Hin Dubbisamne"
+
+chats_in_queue = "Chaatii Tarree Keessatti"
+
+active_chats = "Chaatii Socho’aa"
+
+realtime_agents_chat_monitoring = "Hordoffii Chaatii Hojjettootaa Yeroo-sirrii"
+
+realtime_chats_monitoring = "Hordoffii Chaatii Yeroo-sirrii"
+
+unread = "Kan hin dubbisamne"
+
+client = "Maamila"
+
+telephone = "Bilbila"
+
+assigned_agent = "Hojjetaa Ramadame"
+
+unseen = "Kan hin argamne"
+
+entry = "Galtee"
+
+transfer_chat = "Chaatii Dabarsi"
+
+social_network = "Miidiyaa Hawaasaa"
+
+assign = "Ramadi"
+
+whatsapp_user = "Fayyadamaa WhatsApp"
+
+whatsapp_token = "Tookenii WhatsApp"
+
+whatsapp_instance = "Instance WhatsApp"
+
+whatsapp_host = "Host WhatsApp"
+
+callback_url = "URL Deebii"
+
+whatsapp_modify_sucess = "Sajanteeffamni WhatsApp Milkaa’inaan Jijjiirameera"
+
+
+
+//RocketChat
+
+livechat = "Livechat"
+
+current_chats = "Chaatii Ammaa"
+
+analytics = "Analiitiks (Analytics)"
+
+realtime_monitoring = "Hordoffii Yeroo-sirrii"

@@ -1,0 +1,3 @@
+
+
+(function(){if(jQuery&&jQuery.fn&&jQuery.fn.select2&&jQuery.fn.select2.amd)var e=jQuery.fn.select2.amd;return e.define("select2/i18n/or",[],function(){return{errorLoading:function(){return"Bu’aan isaa fe’amuu hin dandeenye."},inputTooLong:function(e){var t=e.input.length-e.maximum,n="Mee qubee "+t+" haqi ";return t!=1&&(n+="s"),n},inputTooShort:function(e){var t=e.minimum-e.input.length,n="Mee galchaa"+t+"ykn arfiilee caalaa";return n},loadingMore:function(){return"Bu'aa dabalataa fe'aa jira…"},maximumSelected:function(e){var t=" Wantoota "+e.maximum+" qofa filachuu dandeessa";return e.maximum!=1&&(t+="s"),t},noResults:function(){return"Bu'aan hin argamne"},searching:function(){return"Barbaacha…"}}}),{define:e.define,require:e.require}})();

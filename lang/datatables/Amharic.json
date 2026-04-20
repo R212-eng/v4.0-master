@@ -1,0 +1,23 @@
+{
+    "sEmptyTable":     "ምንም የሚገኝ መረጃ የለም",
+    "sInfo":           "ከጠቅላላው _TOTAL_ ምዝገባዎች ውስጥ ከ _START_ እስከ _END_ ያሉት እየታዩ ነው",
+    "sInfoEmpty":      "ከ 0 ምዝገባዎች ውስጥ ከ 0 እስከ 0 ያሉት እየታዩ ነው",
+    "sInfoFiltered":   "(ከጠቅላላው _MAX_ ምዝገባዎች ውስጥ የተመረጡ)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ",",
+    "sLengthMenu":     "የ _MENU_ ምዝገባዎችን አሳይ",
+    "sLoadingRecords": "በመጫን ላይ...",
+    "sProcessing":     "በማሰናዳት ላይ...",
+    "sSearch":         "ፈልግ:",
+    "sZeroRecords":    "ተዛማጅ መረጃ አልተገኘም",
+    "oPaginate": {
+        "sFirst":      "መጀመሪያ",
+        "sLast":       "መጨረሻ",
+        "sNext":       "ቀጣይ",
+        "sPrevious":   "ቀዳሚ"
+    },
+    "oAria": {
+        "sSortAscending":  ": በዝቅታ ቅደም ተከተል ለመደርደር ይጫኑ",
+        "sSortDescending": ": በከፍታ ቅደም ተከተል ለመደርደር ይጫኑ"
+    }
+}
