@@ -1,7 +1,7 @@
 //white-labeling
-company_url = "http://www.goautodial.com/"
-portal_title = "GOautodial Inc."
-dashboard_sub-header = "እንኳን ወደ GOautodial Inc. በደህና መጡ!"
+company_url = "https://www.shaggarbpo.com/"
+portal_title = "Shaggar OCS"
+dashboard_sub-header = "እንኳን ወደ Shaggar OCS በደህና መጡ!"
 
 // DASHBOARD
 
@@ -193,7 +193,7 @@ installation_step_1_title = "ደረጃ 1. የመረጃ ቋቱን መድረስ።
 installation_step_2_title = "ደረጃ 2. የአስተዳዳሪ መለያ።"
 installation_step_3_title = "ደረጃ 3. የደንበኛ እና የእውቂያ ቡድኖችን ይግለጹ።"
 welcome = "እንኳን ደህና መጡ!"
-welcome_to = "እንኳን ወደዚህ በደህና መጡ፡ "
+welcome_to = "እንኳን በደህና መጡ፡፡ <br>"
 installation_process_steps = "የመጫን ሂደቱ የእርስዎን CRM ለመጫን እና ለማበጀት በቀላል ደረጃዎች ይመራዎታል። <strong>እንጀምር!</strong>"
 database = "መረጃ ቋት"
 your_crm_needs_a_database = "CRM ከመረጃ ቋት ጋር ግንኙነት ያስፈልገዋል። ስለዚህ በመጀመሪያ የ MySQL መረጃ ቋት እና ፈቃድ ያለው ተጠቃሚ መፍጠር ያስፈልግዎታል። ከዚያ የሚከተሉትን መስኮች በመረጃ ቋት ምስክርነቶች ይሙሉ፡"
@@ -222,7 +222,7 @@ start_using_creamy = "Creamy መጠቀም ይጀምሩ"
 never_heard_of_creamy = "ስለ Creamy ሰምተው አያውቁም? እዚህ ስለ እሱ ማወቅ ይችላሉ፡"
 invalid_login_password = "ልክ ያልሆነ የመግቢያ ስም ወይም የይለፍ ቃል ገብቷል። እባክዎ እንደገና ይሞክሩ።"
 insert_valid_login_password = "እባክዎ ትክክለኛ የመግቢያ ስም እና የይለፍ ቃል ያስገቡ።"
-system_access = "የስርዓት መዳረሻ"
+system_access = "SBE One Call Solution"
 access = "መዳረሻ"
 forgotten_password = "የይለፍ ቃል ረስተዋል?"
 click_here = "እዚህ ይጫኑ"
