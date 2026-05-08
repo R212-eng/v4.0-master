@@ -484,7 +484,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-12">
 							<div class="panel widget" style="height: 95px;">
 								<div class="row status-box">
-									<div class="col-xs-4 text-center bg-green pv-lg">
+									<div class="col-xs-4 text-center bg-blue pv-lg">
 										<div data-now="" data-format="MMMM" class="text-sm"></div><br>
 										<div data-now="" data-format="D" class="h2 mt0"></div> 
 									</div>
@@ -1463,7 +1463,7 @@
 						?>]
 					},{
 					"label": "Dropped Calls (O)",
-					"color": "#512e90",
+					"color": "#B00020",
 					"data": [
 					<?php
 						if($results["result"] == "success" && isset($results["result"]) && isset($results["Hour9d"]) && $dropped_calls != 0){
