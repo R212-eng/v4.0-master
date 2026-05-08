@@ -203,7 +203,7 @@
  
             <!-- <div class="unwrap ng-scope" style="margin-top: -30;"> -->
             <div class="unwrap ng-scope">
-               <div style="background-image: url(img/profile-bg.jpg)" class="bg-cover">
+               <div style="background-image: url(img/darkblue-bg.png)" class="bg-cover">
                   <div class="p-xl text-center text-white">
                      <a href="#" data-toggle="modal" id="onclick-userinfo" data-target="#profile_pic_modal">
                      <span style="display:table; margin:0 auto; background-color: #ff902b; border: 3px solid #dadada; border-radius: 50%; margin-bottom: 10px; height: 128px; width: 128px;"><?=$ui->getVueAvatar($user->getUserName(), $user->getUserAvatar(), 128)?></span></a>
@@ -213,7 +213,7 @@
                      <a href="#" class="btn btn-xs btn-primary pull-right" style="margin:10px;"><span class="fa fa-picture"></span> Change cover</a>
                   </div>
                </div>
-               <div class="text-center bg-warning p-lg mb-xl">
+               <div class="text-center bg-blue p-lg mb-xl">
                   <div class="row row-table" style="height: 47px">
                      <div class="col-xs-4 br">
                         <h3 class="m0"><?php echo $totalcallstoday; ?></h3>
@@ -452,6 +452,27 @@
                      <em class="icon-plus text-muted"></em>
                   </a>Contacts</div>
                <div class="list-group">
+               	  <!-- START User status-->
+                  <a href="#" class="media p mt0 list-group-item">
+                     <span class="pull-right">
+                        <span class="circle circle-success circle-lg"></span>
+                     </span>
+                     <span class="pull-left">
+                        <!-- Contact avatar-->
+                        <img src="img/user/ceo.jpg" alt="Image" class="media-object img-circle thumb32" />
+                     </span>
+                     <!-- Contact info-->
+                     <span class="media-body">
+                        <span class="media-heading">
+                           <strong>Marta Endalu</strong>
+                           <br/>
+                           <small class="text-muted">CEO</small>
+                        </span>
+                     </span>
+                  </a>
+                  <!-- END User status-->
+                  <!-- START User status-->
+                   
                   <!-- START User status-->
                   <a href="#" class="media p mt0 list-group-item">
                      <span class="pull-right">
@@ -459,14 +480,14 @@
                      </span>
                      <span class="pull-left">
                         <!-- Contact avatar-->
-                        <img src="img/user/05.jpg" alt="Image" class="media-object img-circle thumb32" />
+                        <img src="img/user/it.jpg" alt="Image" class="media-object img-circle thumb32" />
                      </span>
                      <!-- Contact info-->
                      <span class="media-body">
                         <span class="media-heading">
-                           <strong>Juan Sims</strong>
+                           <strong>Tsegalem Hailu</strong>
                            <br/>
-                           <small class="text-muted">Designeer</small>
+                           <small class="text-muted">IT Director</small>
                         </span>
                      </span>
                   </a>
@@ -478,14 +499,14 @@
                      </span>
                      <span class="pull-left">
                         <!-- Contact avatar-->
-                        <img src="img/user/06.jpg" alt="Image" class="media-object img-circle thumb32" />
+                        <img src="img/user/mktg.jpg" alt="Image" class="media-object img-circle thumb32" />
                      </span>
                      <!-- Contact info-->
                      <span class="media-body">
                         <span class="media-heading">
-                           <strong>Maureen Jenkins</strong>
+                           <strong>Meron Admasu</strong>
                            <br/>
-                           <small class="text-muted">Designeer</small>
+                           <small class="text-muted">Marketing Director</small>
                         </span>
                      </span>
                   </a>
@@ -493,40 +514,20 @@
                   <!-- START User status-->
                   <a href="#" class="media p mt0 list-group-item">
                      <span class="pull-right">
-                        <span class="circle circle-danger circle-lg"></span>
+                        <span class="circle circle-success circle-lg"></span>
                      </span>
                      <span class="pull-left">
                         <!-- Contact avatar-->
-                        <img src="img/user/07.jpg" alt="Image" class="media-object img-circle thumb32" />
+                        <img src="img/user/07.png" alt="Image" class="media-object img-circle thumb32" />
                      </span>
                      <!-- Contact info-->
                      <span class="media-body">
                         <span class="media-heading">
-                           <strong>Billie Dunn</strong>
+                           <strong>Hikma Etafa</strong>
                            <br/>
-                           <small class="text-muted">Designeer</small>
+                           <small class="text-muted">Operation Director</small>
                         </span>
                      </span>
-                  </a>
-                  <!-- END User status-->
-                  <!-- START User status-->
-                  <a href="#" class="media p mt0 list-group-item">
-                     <span class="pull-right">
-                        <span class="circle circle-warning circle-lg"></span>
-                     </span>
-                     <span class="pull-left">
-                        <!-- Contact avatar-->
-                        <img src="img/user/08.jpg" alt="Image" class="media-object img-circle thumb32" />
-                     </span>
-                     <!-- Contact info-->
-                     <span class="media-body">
-                        <span class="media-heading">
-                           <strong>Tomothy Roberts</strong>
-                           <br/>
-                           <small class="text-muted">Designer</small>
-                        </span>
-                     </span>
-                  </a>
                   <!-- END User status--><a href="crm.php" class="media p mt0 list-group-item text-center text-muted">View all contacts</a>
                </div>
             </div>                       
