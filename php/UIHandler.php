@@ -2300,9 +2300,9 @@ error_reporting(E_ERROR | E_PARSE);
 				<ul class="control-sidebar-menu" style="bottom: 0px; position: absolute; width: 100%; margin: 25px -15px 15px;">
 					<li>
 						<div class="center-block" style="text-align: center">
-							<a href="./profile.php" class="btn btn-warning"><i class="fa fa-user"></i> '.$this->lh->translationFor("my_profile").'</a>
+							<a href="./profile.php" class="btn btn-info"><i class="fa fa-user"></i> '.$this->lh->translationFor("my_profile").'</a>
 							&nbsp;
-							<a href="./logout.php" id="cream-admin-logout" class="btn btn-warning"><i class="fa fa-sign-out"></i> '.$this->lh->translationFor("exit").'</a>
+							<a href="./logout.php" id="cream-admin-logout" class="btn btn-info"><i class="fa fa-sign-out"></i> '.$this->lh->translationFor("exit").'</a>
 						</div>
 					</li>
 				</ul>
