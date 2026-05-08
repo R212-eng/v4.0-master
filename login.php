@@ -178,7 +178,7 @@
     </div><!-- /.login-box -->
 	</center>
 	<footer>
-		<div style="text-align: center; font-weight: 600; margin-top: -40px;">Copyright &copy; <?=date("Y")?> <a href="https://goautodial.com" target="_blank">GOautodial Inc.</a> All rights reserved.</div>
+		<div style="text-align: center; font-weight: 600; margin-top: -40px;">Customizations &copy; <?=date("Y")?> <a href="https://shaggarbpo.com" target="_blank">Shaggar BPO Ent.</a> Based on GoAutoDial v4 (GPL v2).</div>
 	</footer>
    <!--<div class="margin text-center">
         <span><?php $lh->translateText("never_heard_of_creamy"); ?></span>
